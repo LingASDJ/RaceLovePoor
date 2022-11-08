@@ -1,22 +1,18 @@
-# RaceLovePoor-Vue
--------------------
-项目开发进度：  
-- [x] 1.项目立案
-- [ ] 2.项目研发
-- [ ] 3.项目初审
-- [ ] 4.项目校验
-- [ ] 5.项目封装
-- [ ] 6.项目提交
-- [ ] 7.项目存档
--------------------
-# 逸香农园-Vue
-逸香农园Vue项目是84网页研发组的Vue多人合作开发项目：   
-主要技术支持：JDSALing  
-研发团队成员：
-> Plee,Wang,LiuY,JDSALing
-------------------------------
-# 如何使用此项目？
-## 推荐使用CNPM进行部署配置！
-### cnpm i
-### cnpm run dev
-### 或者 npm install => npm run dev
+# racelovepoor
+
+> 逸香农园Vue项目
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
