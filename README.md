@@ -1,14 +1,5 @@
-# 逸香农园Vue项目
--------------------
-项目开发进度：  
-- [x] 1.项目立案
-- [ ] 2.项目研发
-- [ ] 3.项目初审
-- [ ] 4.项目校验
-- [ ] 5.项目封装
-- [ ] 6.项目提交
-- [ ] 7.项目存档
--------------------
+# 逸香农园Vue项目-Demo-路由器配置文档:
+------------------------------
 项目开发团队：
 ``` bash
 逸香农园Vue项目是84网页研发组的Vue多人合作开发项目：   
@@ -17,7 +8,7 @@
 Plee,Wang,LiuY,JDSALing
 ```
 ------------------------------
-如何使用此项目？  
+如何使用此项目以及使用VueRouter？  
 1.推荐使用CNPM进行部署配置！
 
 ``` bash
@@ -25,8 +16,14 @@ Plee,Wang,LiuY,JDSALing
 # npm install -g cnpm -registry=https://registry.npm.taobao.org 
 
 # cnpm install
-# cnpm run dev
-# cnpm run build
+//安装基本依赖
+
+//安装Vue-Router
+# cnpm install vue-router@3.1.3 --save-dev
+
+//如果无法安装Vue-Router,先清除缓存数据,再执行上方指令
+cnpm cache clean --force
+
 ```
 
 2.或者是NPM:
@@ -35,11 +32,14 @@ Plee,Wang,LiuY,JDSALing
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
+
+//安装Vue-Router
+# npm install vue-router@3.1.3 --save-dev
+
+//如果无法安装Vue-Router,先清除缓存数据,再执行上方指令
+npm cache clean --force
+
 ```
 
 常见问题：
@@ -49,6 +49,7 @@ cnpm install node-sass
 
 //无法启动项目，缺失依赖项
 cnpm i
+
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
