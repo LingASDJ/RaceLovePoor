@@ -46,6 +46,9 @@ npm run build
 ```bash
 //sass错误
 cnpm install node-sass
+
+//无法启动项目，缺失依赖项
+cnpm i
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
