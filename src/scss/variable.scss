@@ -1,0 +1,38 @@
+//全局SCSS先导文件
+
+@charset "utf-8";
+//指定编码为UTF-8
+
+//RGB三原色
+$red: #ff0000;
+$green: #00ff00;
+$blue: #0000ff;
+
+//高频的一些颜色变量
+$sky_blue: #00ffff;
+$gold_yellow: #ffff00;
+$deep_dark: #322f2f;
+$shallow_dark: #808080;
+$middle_dark: #8c8c8c;
+$deep_pink: #ff00ff;
+$shallow_pink: #ff99ff;
+$shallow_black: #333;
+
+/* CSS 常规处理 */
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,
+address,big,cite,code,del,em,font,img,ins,small,strong,var,b,u,
+i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend{
+    margin:0;padding:0
+}
+ol,ul{
+    list-style:none
+}:focus{
+    outline:0
+}
+a img{
+    border:0
+}
+a{ 
+    text-decoration:none
+}
+
