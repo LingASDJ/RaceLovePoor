@@ -1,11 +1,11 @@
 <template>
-  <!-- 路由部署完毕 以下是Demo
+  <!-- 路由部署完毕 以下是Demo -->
   <div id="app">
-    重要的文件在router/index.js中
+    <!-- 重要的文件在router/index.js中 -->
    <router-link to="/home">首页</router-link>
     <router-link to="/about">关于</router-link>
     <router-view></router-view>
-  </div> -->
+  </div>
 </template>
 
 <script>
