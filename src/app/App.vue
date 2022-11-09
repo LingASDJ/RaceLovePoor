@@ -16,7 +16,7 @@ export default {
 
 <style lang="scss">
 /*引入scss文件*/
-@import "../scss/variable.scss";
+//@import "../scss/variable.scss";
 @import "../scss/public.scss";
 </style>
 
