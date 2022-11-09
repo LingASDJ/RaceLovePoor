@@ -22,7 +22,7 @@ Plee,Wang,LiuY,JDSALing
 # cnpm install vue-router@3.1.3 --save-dev
 
 //如果无法安装Vue-Router,先清除缓存数据,再执行上方指令
-cnpm cache clean --force
+# cnpm cache clean --force
 
 ```
 
@@ -30,15 +30,13 @@ cnpm cache clean --force
 
 ``` bash
 # install dependencies
-npm install
-
-
+# npm install
 
 //安装Vue-Router
 # npm install vue-router@3.1.3 --save-dev
 
 //如果无法安装Vue-Router,先清除缓存数据,再执行上方指令
-npm cache clean --force
+# npm cache clean --force
 
 ```
 
