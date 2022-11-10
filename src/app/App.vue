@@ -3,7 +3,7 @@
     <Header></Header>
     <!-- 路由出口 -->
     <router-view ></router-view>
-    <!-- <Footer></Footer> -->
+    <Footer></Footer>
   </div>
 </template>
 
