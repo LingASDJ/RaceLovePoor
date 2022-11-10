@@ -8,7 +8,7 @@
               <div class="menu_hd">
                 <a href="#">
                   <img
-                    src="../../assets/images/top_phone_icon.png"
+                    :src="appimg"
                     width="12px"
                     height="16px"
                   />
@@ -76,7 +76,7 @@
           <a href="#">
             <img
               class="border_r"
-              src="../../assets/images/logo.png"
+              src="../../assets/images/logo/orange-logo.png"
               width="120"
               height="50"
             />
@@ -130,6 +130,13 @@
 <script>
 // 导出，然后在index.js中导入
 export default {
-  name: "Home"
+  name: "Home",
+  props:{
+    appimg:{
+      default:"/src/assets/images/top_phone_icon.png",
+      type: String,
+    }
+    
+  }
 };
 </script>
