@@ -2,7 +2,7 @@
   <div id="app">
     <Header></Header>
     <!-- 路由出口 -->
-    <router-view ></router-view>
+    <router-view></router-view>
     <Footer></Footer>
   </div>
 </template>
@@ -14,12 +14,12 @@
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 export default {
-    name: "App",
-    //注册组件
-    components: {
-        Header,
-        Footer,
-    },
+  name: "App",
+  //注册组件
+  components: {
+    Header,
+    Footer
+  }
 };
 </script>
 
@@ -28,4 +28,3 @@ export default {
 @import "../scss/variable.scss";
 @import "../scss/public.scss";
 </style>
-
