@@ -67,7 +67,7 @@
 
         </ul>
     </div>
-    <div class="footer_v2013 bottom-about">
+    <div class="footer_v2022 bottom-about">
         <div class="w">
             <p class="foot_p1">
                 <a href="#">首页</a>|<a href="#">招聘英才</a>|<a href="#">广告合作</a>|<a href="#">联系我们</a>|<a href="#">关于我们</a>

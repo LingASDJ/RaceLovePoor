@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-      <div class="shortcut_v2013 alink_v2013">
+      <div class="shortcut_v2022 alink_v2022">
         <div class="w">
             <ul class="fl 1h">
                 <li class="fl">
@@ -64,9 +64,9 @@
         </div>
     </div>
    <!--顶部Logo及搜索-->
-   <div class="header_2013">
+   <div class="header_2022">
     <div class="w">
-        <div class="logo_v2013">
+        <div class="logo_v2022">
             <a href="#">
                 <img class="border_r" src="../../assets/images/logo.png" width="120" height="50">
                 <img src="../../assets/images/slogan.jpg" width="170" height="50">
