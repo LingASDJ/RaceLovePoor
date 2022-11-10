@@ -2,8 +2,8 @@
 import VueRouter from 'vue-router'
 import Vue from 'vue'
 
-import Home from '../components/Home'
-import About from '../components/About'
+import Home from '../components/Footer/Footer'
+import About from '../components/Header/Header'
 
 // 1.通过Vue.use(插件)，安装插件
 Vue.use(VueRouter)

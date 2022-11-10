@@ -1,22 +1,31 @@
 <template>
-  <!-- 路由部署完毕 以下是Demo
   <div id="app">
-    重要的文件在router/index.js中
-   <router-link to="/home">首页</router-link>
-    <router-link to="/about">关于</router-link>
-    <router-view></router-view>
-  </div> -->
+    <Header></Header>
+    <!-- 路由出口 -->
+    <router-view ></router-view>
+    <!-- <Footer></Footer> -->
+  </div>
 </template>
 
 <script>
+// import axios from "axios"
+// import bootstrap from "bootstrap"
+// 引入页面
+import Header from "../components/Header/Header";
+import Footer from "../components/Footer/Footer";
 export default {
-  name: 'App'
-}
+    name: "App",
+    //注册组件
+    components: {
+        Header,
+        Footer,
+    },
+};
 </script>
 
 <style lang="scss">
 /*引入scss文件*/
-//@import "../scss/variable.scss";
+@import "../scss/variable.scss";
 @import "../scss/public.scss";
 </style>
 
