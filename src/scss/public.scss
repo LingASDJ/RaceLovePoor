@@ -105,6 +105,9 @@
       height: 115px;
       line-height: 115px;
     }
+    hr{
+      border: #e11926 1.4px solid;
+    }
   }
   /*头部logo*/
   .logo_v2022 {
@@ -120,7 +123,7 @@
     }
     img{
       width: 170px;
-      height: 50px;
+      height: 60px;
     }
   }
   /*头部搜索*/
@@ -547,7 +550,6 @@
     font-size: 15px;
     color: #000000;
     font-family: "Microsoft YaHei";
-    text-align: left;
   }
   .bottom-links-items {
     margin-top: 18px;
@@ -567,6 +569,13 @@
         text-decoration: underline;
         cursor: pointer;
       }
+    }
+  }
+  .gzhtp{
+    margin-right: 10px;
+    img{
+      width: 120px;
+      height: 120px;
     }
   }
   .bottom-about {

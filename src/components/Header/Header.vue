@@ -72,7 +72,7 @@
         <div class="logo_v2022">
           <a href="#">
             <img class="border_r" src="../../assets/images/logo/lv.png" />
-            <img src="../../assets/images/logo/length_logo.png" />
+            <img src="../../assets/images/logo/length-logo1.png" />
           </a>
         </div>
         <div class="header_searchbox">
@@ -114,8 +114,8 @@
         </div>
         <span class="clr"></span>
       </div>
+      <hr />
     </div>
-    <!--顶部Logo及搜索-->
   </div>
 </template>
 
