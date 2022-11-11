@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- 顶部条 -->
     <div class="shortcut_v2022 alink_v2022">
       <div class="w">
         <ul class="fl 1h">
@@ -7,12 +8,8 @@
             <div class="menu">
               <div class="menu_hd">
                 <a href="#">
-                  <img
-                    :src="appimg"
-                    width="12px"
-                    height="16px"
-                  />
-                  手机锡货
+                  <img :src="appimg" width="12px" height="16px" />
+                  手机商城
                 </a>
                 <b><em></em></b>
               </div>
@@ -26,7 +23,7 @@
           </li>
           <li class="fl"><i class="shortcut_s"></i></li>
           <li class="fl">
-            <div class="menu_hd">您好，欢迎来到锡货网！</div>
+            <div class="menu_hd">您好，欢迎来到巧农人暖心助农购物商城！</div>
           </li>
           <li class="fl">
             <div class="menu_hd"><a href="#">请登录</a></div>
@@ -74,13 +71,8 @@
       <div class="w">
         <div class="logo_v2022">
           <a href="#">
-            <img
-              class="border_r"
-              src="../../assets/images/logo/orange-logo.png"
-              width="120"
-              height="50"
-            />
-            <img src="../../assets/images/slogan.jpg" width="170" height="50" />
+            <img class="border_r" src="../../assets/images/logo/lv.png" />
+            <img src="../../assets/images/logo/length_logo.png" />
           </a>
         </div>
         <div class="header_searchbox">
@@ -131,12 +123,11 @@
 // 导出，然后在index.js中导入
 export default {
   name: "Home",
-  props:{
-    appimg:{
-      default:"/src/assets/images/top_phone_icon.png",
-      type: String,
+  props: {
+    appimg: {
+      default: "/src/assets/images/top_phone_icon.png",
+      type: String
     }
-    
   }
 };
 </script>
