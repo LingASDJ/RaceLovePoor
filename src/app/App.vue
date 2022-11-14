@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Header></Header>
+    <Index></Index>
     <Footer></Footer>
     <!-- 路由出口 -->
     <router-view></router-view>
@@ -12,6 +13,7 @@
 // import bootstrap from "bootstrap"
 // 引入页面
 import Header from "../components/Header/index";
+import Index from "../components/MidPass/index";
 import Footer from "../components/Footer/index";
 // import Login  from "../pages/Login/login.vue";
 export default {
@@ -19,6 +21,7 @@ export default {
   //注册组件
   components: {
     Header,
+    Index,
     Footer
   }
 };
