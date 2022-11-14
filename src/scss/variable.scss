@@ -84,26 +84,24 @@ html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,big,cite,
       visibility: hidden;
     }
   }
-  .button {
-    color: #fff;
-    padding: 0 10px;
-    border-color: #ed6002;
-    background-color: #fe8502;
-    display: inline-block;
-    height: 24px;
-    line-height: 23px;
-    font-size: 12px;
-    border-radius: 2px;
-    border-width: 1px;
-    border-style: solid;
-    vertical-align: top;
-    cursor: pointer;
-    text-decoration: none;
-    &:hover {
-      cursor: pointer;
-      text-decoration: underline;
-    }
-  }
+  // .button {
+  //   color: #fff;
+  //   padding: 0 10px;
+  //   display: inline-block;
+  //   height: 24px;
+  //   line-height: 23px;
+  //   font-size: 12px;
+  //   border-radius: 2px;
+  //   border-width: 1px;
+  //   border-style: solid;
+  //   vertical-align: top;
+  //   cursor: pointer;
+  //   text-decoration: none;
+  //   &:hover {
+  //     cursor: pointer;
+  //     text-decoration: underline;
+  //   }
+  // }
   .w {
     width: 1200px;
     margin: 0 auto;
