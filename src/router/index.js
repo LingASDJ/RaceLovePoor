@@ -2,9 +2,13 @@
 import VueRouter from 'vue-router'
 import Vue from 'vue'
 
-import Home from '../components/Footer/Footer'
-import About from '../components/Header/Header'
-import Index from '../components/Index/Index'
+//{Main Pages}
+import Header from '../components/Header/index'
+import Footer from '../components/Footer/index'
+import MidPass from '../components/MidPass/index'
+
+//{Pages}
+import CardCat from '../pages/CardCat/index'
 
 // 1.通过Vue.use(插件)，安装插件
 Vue.use(VueRouter)
@@ -13,15 +17,19 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/home',
-    component: Home
+    component: Header
   },
   {
     path: '/about',
-    component: About
+    component: Footer
   },
   {
-    path:'/Index',
-    component: Index
+    path:'/index',
+    component: MidPass
+  },
+  {
+    path:'/cardcat',
+    component: CardCat
   }
 ]
 

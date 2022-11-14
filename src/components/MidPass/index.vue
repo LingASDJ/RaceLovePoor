@@ -3,11 +3,10 @@
   <div id="app">
     <div class="Toprotation">
       <div class="login"></div>
-      <div class="banner">
+      <!-- <div class="banner">
         <img src="../../assets/images/banner/01.jpg" alt="" />
-      </div>
+      </div> -->
     </div>
-    <!-- <router-link to="/Home" tag="a">DKSHWFSIHFSI</router-link> -->
   </div>
 </template>
 

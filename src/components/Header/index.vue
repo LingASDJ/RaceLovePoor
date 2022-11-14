@@ -1,4 +1,5 @@
 <template>
+
   <div id="app">
     <!-- 顶部条 -->
     <div class="shortcut_v2022 alink_v2022">
@@ -38,7 +39,7 @@
           </li>
           <li class="fl"><i class="shortcut_s"></i></li>
           <li class="fl">
-            <div class="menu_hd"><a href="#">我的锡货</a></div>
+            <div class="menu_hd"><a href="#">我的货物</a></div>
           </li>
           <li class="fl"><i class="shortcut_s"></i></li>
           <li class="fl">
@@ -100,7 +101,7 @@
         </div>
         <div id="cart_box" class="cart_box">
           <a id="cart" class="cart_link" href="#" rel="nofollow">
-            <span class="text">去购物车结算</span>
+            <a @click="CardCatLink"><span class="text">去购物车结算</span></a>
             <img
               src="../../assets/images/shopping_icon.png"
               width="24"
@@ -117,7 +118,9 @@
       </div>
       <hr />
     </div>
+    <router-view></router-view>
   </div>
+
 </template>
 
 <script>
@@ -126,9 +129,15 @@ export default {
   name: "Home",
   props: {
     appimg: {
-      default: "/src/assets/images/top_phone_icon.png",
-      type: String
+      default: "/src/assets/images/top_phone_icon.png"
     }
-  }
+  },
+  methods: {
+    CardCatLink() {
+      this.$router.replace('/cardcat')
+    }
+  },
+  //引入ReloadAPP
+  inject:['reloadApp']
 };
 </script>

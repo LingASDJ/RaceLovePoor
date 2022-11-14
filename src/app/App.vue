@@ -1,10 +1,9 @@
 <template>
   <div id="app">
     <Header></Header>
-    <!-- 路由出口 -->
-    <Index></Index>
-    <router-view></router-view>
     <Footer></Footer>
+    <!-- 路由出口 -->
+    <router-view></router-view>
   </div>
 </template>
 
@@ -12,8 +11,8 @@
 // import axios from "axios"
 // import bootstrap from "bootstrap"
 // 引入页面
-import Header from "../components/Header/Header";
-import Footer from "../components/Footer/Footer";
+import Header from "../components/Header/index";
+import Footer from "../components/Footer/index";
 // import Login  from "../pages/Login/login.vue";
 export default {
   name: "App",
