@@ -1,7 +1,7 @@
 <template>
   <!-- 顶部轮播部分 -->
-  <div class="Top rotation">
-    <div class="longin"></div>
+  <div class="Toprotation">
+    <div class="login"></div>
     <div class="banner"></div>
   </div>
 </template>
@@ -19,16 +19,22 @@ export default {
 };
 </script>
 <style>
-@import "../scss/variable.scss";
-@import "../scss/public.scss";
+/* @import "../scss/variable.scss"; */
+/* @import "../../scss/public.scss"; */
+.Toprotation {
+  width: 1200px;
+  margin: 0 auto;
+}
 .login {
   width: 200px;
   height: 200px;
   border: 2px red solid;
+  display: inline-block;
 }
 .banner {
   width: 800px;
   height: 200px;
   border: 2px rgb(49, 210, 84) solid;
+  display: inline-block;
 }
 </style>
