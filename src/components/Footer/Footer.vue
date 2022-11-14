@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div class="promise_box">
+      <!-- <router-link to="/Footer" tag="a">DKSHWFSIHFSI</router-link> -->
       <div class="w">
         <ul>
           <li>

@@ -4,6 +4,7 @@ import Vue from 'vue'
 
 import Home from '../components/Footer/Footer'
 import About from '../components/Header/Header'
+import Index from '../components/Index/Index'
 
 // 1.通过Vue.use(插件)，安装插件
 Vue.use(VueRouter)
@@ -18,6 +19,10 @@ const routes = [
     path: '/about',
     component: About
   },
+  {
+    path:'/Index',
+    component: Index
+  }
 ]
 
 const router = new VueRouter({
