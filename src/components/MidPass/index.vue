@@ -69,6 +69,7 @@
 .button {
   display: flex;
   margin: 0 auto;
+  
 }
 
 .button button {
@@ -76,13 +77,13 @@
   height: 40px;
   border-radius: 20px;
   border: none;
-  
+  color: aliceblue;
 }
-.login1{
+.login1 {
   background: #ff5400;
 }
-.register1{
-  background:#ff7f00;
+.register1 {
+  background: #ff7f00;
 }
 .tbbox {
   display: flex;
