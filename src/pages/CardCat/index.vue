@@ -6,9 +6,21 @@
                     <span id="cardcat_text">我的购物车</span>
                 </div>
                 <div class="cardcat_total">
-                    <span>已选商品(不含运费)</span>
-                    <span>0.00</span>
-                    <button>结算</button>
+                    <span id="sss1">已选商品(不含运费)</span>
+                    <span id="sss1">0.00</span>
+                    <button id="cardcat_button">结算</button>
+                </div>
+            </div>
+            <div class="cardcatheadA">
+                <div id="cardcat_checkbox">
+                    <input type="checkbox">全选商品
+                </div>
+                <div class="cardcatheadB">
+                    <span id="sss3">商品信息</span>
+                    <span id="sss3">单价</span>
+                    <span id="sss3">数量</span>
+                    <span id="sss3">金额</span>
+                    <span id="sss3">操作</span>
                 </div>
             </div>
         </div>
@@ -21,23 +33,8 @@
  
   }
   </script>
-  
-<style>
-  .cardcat{
-    height: 500px;
-    background-color: rgb(255, 0, 144);
-  }
- .cardcatmain{
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    padding: 0 118px;
-    height: 40px;
-    background-color: aqua;
-    font-size: 16px;
-    line-height: 42px;
- }
- .cardcat_total{
-    display: flex;
- }
+
+<!-- 引入购物车SCSS -->
+<style lang="scss">
+@import "../../scss/cardcat.scss";
 </style>
