@@ -1,5 +1,4 @@
 <template>
-
   <div id="app">
     <!-- 顶部条 -->
     <div class="shortcut_v2022 alink_v2022">
@@ -79,8 +78,16 @@
         </div>
         <div class="header_searchbox">
           <form action="#">
-            <input name="search" type="text" class="header_search_input" default_val="锡货网三期上线全场五折" autocomplete="off"
-              x-webkit-speech="" x-webkit-grammar="builtin:search" lang="zh" />
+            <input
+              name="search"
+              type="text"
+              class="header_search_input"
+              default_val="锡货网三期上线全场五折"
+              autocomplete="off"
+              x-webkit-speech=""
+              x-webkit-grammar="builtin:search"
+              lang="zh"
+            />
             <button type="submit" class="header_search_btn">搜索</button>
           </form>
           <ul class="hot_word">
@@ -94,7 +101,12 @@
         <div id="cart_box" class="cart_box">
           <a id="cart" class="cart_link" href="#" rel="nofollow">
             <a @click="CardCatLink"><span class="text">去购物车结算</span></a>
-            <img src="../../assets/images/shopping_icon.png" width="24" height="24" class="cart_gif" />
+            <img
+              src="../../assets/images/shopping_icon.png"
+              width="24"
+              height="24"
+              class="cart_gif"
+            />
 
             <!-- 购物车没有物品时，隐藏此num -->
             <!-- <span class="num">12</span>
@@ -118,7 +130,6 @@
             <li>
               <a href="./about.html">关于我们</a>
             </li>
-            <hr>
           </ul>
         </div>
         <span class="clr"></span>
@@ -126,11 +137,9 @@
     </div>
     <router-view></router-view>
   </div>
-
 </template>
 
 <script>
-<<<<<<< Updated upstream
 // 导出，然后在index.js中导入
 export default {
   name: "Home",
@@ -141,27 +150,8 @@ export default {
   },
   methods: {
     CardCatLink() {
-      this.$router.replace('/cardcat')
+      this.$router.replace("/cardcat");
     }
   }
 };
 </script>
-=======
-  // 导出，然后在index.js中导入
-  export default {
-    name: "Home",
-    props: {
-      appimg: {
-        default: "/src/assets/images/top_phone_icon.png"
-      }
-    },
-    methods: {
-      CardCatLink() {
-        this.$router.replace('/cardcat')
-      }
-    },
-    //引入ReloadAPP
-    inject: ['reloadApp']
-  };
-</script>
->>>>>>> Stashed changes
