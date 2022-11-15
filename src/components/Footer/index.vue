@@ -146,8 +146,7 @@
 
 <script>
 export default {
-  name: "About",
-  inject:['reloadApp']
+  name: "About"
 };
 </script>
 

@@ -136,8 +136,6 @@ export default {
     CardCatLink() {
       this.$router.replace('/cardcat')
     }
-  },
-  //引入ReloadAPP
-  inject:['reloadApp']
+  }
 };
 </script>

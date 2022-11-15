@@ -1,11 +1,42 @@
 //主页面
 .cardcat{
     border-radius: 30px;
-    background-color: rgb(39, 252, 202);
-    height: 300px;
+    background-color: rgb(189, 236, 225);
     margin-bottom: 10px;
+    font-size: 16px;
+    z-index: 99;
+    height: 600px;
+
+    // 统一约束
+    width: 1200px;
+    margin: 0 auto;
 }
 
+//商品信息
+.shopinfo{
+  // padding: 0 118px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: rgb(226, 244, 239);
+  margin-bottom: 10px;
+  line-height: 42px;
+}
+
+.shoptea{
+  display: flex;
+}
+
+//商品状态
+.shopactive{
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  font-size: 16px;
+  line-height: 52px;
+  grid-gap: 190px;
+  // grid-template-columns: repeat(6, 200px);
+  // grid-template-rows: 200px 400px;
+}
 
 .cardcatmain {
     display: flex;
@@ -25,7 +56,10 @@
     margin-right: 10px;
   }
   #sss3 {
-    margin-right: 100px;
+    margin-right: 123px;
+  }
+  #sss4 {
+    margin-right: 122px;
   }
   #cardcat_button {
     margin-top: 2px;
@@ -42,26 +76,19 @@
   //A-B盒子
   .cardcatheadA {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: baseline;
-    padding: 0 118px;
     height: 40px;
     font-size: 16px;
     line-height: 42px;
     margin-bottom: 4px;
-    margin-right: -190px;
   }
   .cardcatheadB {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: baseline;
-    padding: 0 145px;
-    height: 40px;
-    font-size: 16px;
-    line-height: 42px;
-    margin-bottom: 4px;
+    /*  声明列的宽度  */
+    padding: 0 20px;
+    /*  声明行的高度  */
   }
-  //复选框
-  #cardcat_checkbox {
-    margin-left: 1px;
-}
+  
