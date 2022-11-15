@@ -482,21 +482,17 @@ h4 {
 /* 2.商品 */
 .right_pro-l {
   background-color: rgb(230, 230, 230);
-  width: 190px;
-  height: 240px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
+    width: 190px;
+    height: 240px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
 }
 
 .imgbox {
   width: 160px;
   height: 160px;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   padding-top: 10px;
 }
 
