@@ -1,71 +1,5 @@
 <template>
   <div id="app">
-    <!-- 顶部条 -->
-    <div class="shortcut_v2022 alink_v2022">
-      <div class="w">
-        <ul class="fl 1h">
-          <li class="fl">
-            <div class="menu">
-              <div class="menu_hd">
-                <a href="#">
-                  <img :src="appimg" width="12px" height="16px" />
-                  手机商城
-                </a>
-                <b><em></em></b>
-              </div>
-              <div class="menu_bd">
-                <ul>
-                  <li><a href="#">App For Android</a></li>
-                  <li><a href="#">App For IOS</a></li>
-                </ul>
-              </div>
-            </div>
-          </li>
-          <li class="fl"><i class="shortcut_s"></i></li>
-          <li class="fl">
-            <div class="menu_hd">您好，欢迎来到巧农人暖心助农购物商城！</div>
-          </li>
-          <li class="fl">
-            <div class="menu_hd"><a href="#">请登录</a></div>
-          </li>
-          <li class="fl">
-            <div class="menu_hd"><a href="#">免费注册</a></div>
-          </li>
-        </ul>
-        <ul class="fr 1h">
-          <li class="fl">
-            <div class="menu_hd"><a href="#">我的订单</a></div>
-          </li>
-          <li class="fl"><i class="shortcut_s"></i></li>
-          <li class="fl">
-            <div class="menu_hd"><a href="#">我的货物</a></div>
-          </li>
-          <li class="fl"><i class="shortcut_s"></i></li>
-          <li class="fl">
-            <div class="menu_hd"><a href="#">服务中心</a></div>
-          </li>
-          <li class="fl"><i class="shortcut_s"></i></li>
-          <li class="fl">
-            <div class="menu_hd"><a href="#">农户认证</a></div>
-          </li>
-          <li class="fl"><i class="shortcut_s"></i></li>
-          <li class="fl">
-            <div class="menu">
-              <div class="menu_hd">
-                <a href="#">网站导航</a><b><em></em></b>
-              </div>
-              <div class="menu_bd">
-                <ul>
-                  <li><a href="#">网站导航</a></li>
-                  <li><a href="#">网站导航</a></li>
-                </ul>
-              </div>
-            </div>
-          </li>
-        </ul>
-        <span class="clr"></span>
-      </div>
-    </div>
     <!-- <router-link to="/Home" tag="a">DKSHWFSIHFSI</router-link> -->
     <!--顶部Logo及搜索-->
     <div class="header_2022">
@@ -113,27 +47,9 @@
                 <s class="icon_arrow_right"></s> -->
           </a>
         </div>
-        <div class="initio-1">
-          <ul>
-            <li>
-              <a href="#">首页</a>
-            </li>
-            <li>
-              <a href="./purchasing.html">采购大厅</a>
-            </li>
-            <li>
-              <a href="./helpsFarmers.html">爱心助农</a>
-            </li>
-            <li>
-              <a href="./Information.html">农业资讯</a>
-            </li>
-            <li>
-              <a href="./about.html">关于我们</a>
-            </li>
-          </ul>
-        </div>
         <span class="clr"></span>
       </div>
+      <hr />
     </div>
     <router-view></router-view>
   </div>
