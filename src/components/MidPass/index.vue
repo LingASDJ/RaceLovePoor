@@ -1,14 +1,10 @@
 <template>
-  <div id="app">
+  <div id="app" v-show="isHide">
     <!-- 顶部轮播部分 -->
     <div class="Toprotation">
       <div class="login">
         <div class="content">
-          <img
-            class="tx"
-            src="../../assets/images/index/login-png/头像.png"
-            alt=""
-          />
+          <img class="tx" src="../../assets/images/index/login-png/头像.png" alt="" />
           <h2>Hi! 你好</h2>
           <div class="button">
             <button class="login1">登录</button>
@@ -16,31 +12,19 @@
           </div>
           <div class="tbbox">
             <div class="tb">
-              <img
-                src="../../assets/images/index/login-png/宝贝收藏.png"
-                alt=""
-              />
+              <img src="../../assets/images/index/login-png/宝贝收藏.png" alt="" />
               <p>宝贝收藏</p>
             </div>
             <div class="tb">
-              <img
-                src="../../assets/images/index/login-png/买过的店.png"
-                alt=""
-              />
+              <img src="../../assets/images/index/login-png/买过的店.png" alt="" />
               <p>买过的店</p>
             </div>
             <div class="tb">
-              <img
-                src="../../assets/images/index/login-png/收藏的店.png"
-                alt=""
-              />
+              <img src="../../assets/images/index/login-png/收藏的店.png" alt="" />
               <p>收藏的店</p>
             </div>
             <div class="tb">
-              <img
-                src="../../assets/images/index/login-png/我的足迹.png"
-                alt=""
-              />
+              <img src="../../assets/images/index/login-png/我的足迹.png" alt="" />
               <p>我的足迹</p>
             </div>
           </div>
@@ -72,10 +56,7 @@
         <div class="merchandise">
           <div class="right_pro-l">
             <div class="imgbox">
-              <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
-                alt=""
-              />
+              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -86,10 +67,7 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
-                alt=""
-              />
+              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -100,10 +78,7 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
-                alt=""
-              />
+              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -114,10 +89,7 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
-                alt=""
-              />
+              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -128,10 +100,7 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
-                alt=""
-              />
+              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -340,6 +309,16 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  computed: {
+    isHide() {
+      return (!(this.$route.path == "/cardcat"))
+    }
+  }
+}
+</script>
+
 <style>
 /* @import "../scss/variable.scss"; */
 /* @import "../../scss/public.scss"; */
@@ -482,12 +461,12 @@ h4 {
 /* 2.商品 */
 .right_pro-l {
   background-color: rgb(230, 230, 230);
-    width: 190px;
-    height: 240px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: column;
+  width: 190px;
+  height: 240px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
 }
 
 .imgbox {
@@ -545,6 +524,7 @@ h4 {
   display: flex;
   flex-wrap: wrap;
 }
+
 .right-img-3-1 {
   width: 200px;
   height: 270px;
@@ -552,10 +532,12 @@ h4 {
   padding-top: 5px;
   margin-bottom: 10px;
 }
+
 .img-3 img {
   width: 170px;
   height: 170px;
 }
+
 .right-img-3-1 .img-3 {
   margin: 0 12px;
 }

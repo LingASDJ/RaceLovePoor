@@ -15,7 +15,7 @@
             <!-- A-BOX -->
             <div class="cardcatheadA">
                 <div id="cardcat_checkbox">
-                    <input type="checkbox">全选商品
+                   <span></span>
                 </div>
                 <!-- B-BOX -->
                 <div class="cardcatheadB">
@@ -29,14 +29,15 @@
             <div class="shopinfo">
                 <div class="shopactive">
                     <!-- <img class="shopactive" src="../../assets/images/goods_img03.jpg"> -->
-                    商品状态:{{active}}
+                    <input type="checkbox" id="checkcss">
                     <div class="shoptea">
+                        <img src="../../assets/images/goods_img03.jpg" id="imgcss">
                         <span id="sss4">乐事</span>
                         <span id="sss4">11.45</span>
                         <span id="sss4">514</span>
                         <span id="sss4">1919810</span>
-                        <span id="sss4">
-                            <a href="#">提交</a>
+                        <span id="sss5">
+                            <a href="#">详情</a>
                             <a href="#">移除</a>
                         </span>
                     </div>
@@ -51,8 +52,25 @@
     name: "CardCat",
     props: {
     active: {
-      default: "交易成功"
-    }
+      default: "等待结算"
+    },
+    books:[
+            {
+                id:'1',
+                name:'三国',
+                date:new Date()
+            },
+            {
+                id:'2',
+                name:'水浒',
+                date:new Date()
+            },
+            {
+                id:'3',
+                name:'红楼梦',
+                date:new Date()
+            },
+        ]
   },
   }
   </script>

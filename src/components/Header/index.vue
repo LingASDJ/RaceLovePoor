@@ -34,7 +34,8 @@
         </div>
         <div id="cart_box" class="cart_box">
           <a id="cart" class="cart_link" href="#" rel="nofollow">
-            <a @click="CardCatLink"><span class="text">去购物车结算</span></a>
+            <!-- <a @click="CardCatLink"><span class="text">去购物车结算</span></a> -->
+            <router-link to="/cardcat"><span class="text">去购物车结算</span></router-link>
             <img
               src="../../assets/images/shopping_icon.png"
               width="24"
