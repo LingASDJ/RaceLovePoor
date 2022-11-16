@@ -47,8 +47,22 @@
         </div>
       </div>
       <div class="banner">
-        <!-- <img src="../../assets/images/index/banner/02.jpg" alt="" /> -->
-        <img src="../../assets/images/index/banner/01.jpg" alt="" />
+        <!-- Vue-Easy轮播图插件 -->
+        <Slider
+        animation="fade"
+        v-model="sliderValue"
+        :duration="5000"
+        :speed="1000" style="border-radius: 30px;">
+        <SliderItem
+          v-for="(i, index) in list"
+          :key="index"
+          @click="changeIndex(1);"
+          :style="i">
+          <!-- <p style="line-height: 280px; font-size: 5rem; text-align: center;">
+             Page{{ index + 1 }}
+          </p> -->
+        </SliderItem>
+      </Slider>
       </div>
     </div>
     <!-- 热门商品部分 -->
@@ -546,13 +560,47 @@
   </div>
 </template>
 <script>
+import { Slider, SliderItem } from "vue-easy-slider";
+
 export default {
+  components: {
+    Slider,
+    SliderItem
+  },
+  data() {
+    return {
+      list: [
+      ],
+      // 图片起始位置
+      sliderValue: 1
+    };
+  },
+  methods: {
+    changeIndex(index) {
+      this.sliderValue = index;
+    }
+  },
   computed: {
     isHide() {
       return !(this.$route.path == "/cardcat");
     }
-  }
-};
+  },
+  mounted() {
+    setTimeout(
+      () =>
+        (this.list = [
+          {
+            background:'url(src/assets/images/index/banner/01.jpg) no-repeat top center #e11926',
+          },
+          {
+            background:'url(src/assets/images/index/banner/02.jpg) no-repeat top center #e11926',
+          },
+
+        ]),
+      1000
+    );
+  }  
+  };
 </script>
 
 <style>
@@ -824,5 +872,9 @@ h4 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+.banner{
+  padding-top: 35px;
 }
 </style>

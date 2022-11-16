@@ -1,13 +1,18 @@
 import Vue from 'vue'
 import App from './app/App'
 import router from '../src/router/index'  
-// 完整写法：./router/index.js
+
+//导入轮播图插件
+import EasySlider from 'vue-easy-slider'
+//初始化轮播图插件
+Vue.use(EasySlider)
 
 Vue.config.productionTip = false
-
 
 new Vue({
   el: '#app',
   router,
-  render: h => h(App)
+  render: h => h(App),
+  components: { App },
+  template: "<App/>"
 })
