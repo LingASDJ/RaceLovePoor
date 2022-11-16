@@ -4,7 +4,11 @@
     <div class="Toprotation">
       <div class="login">
         <div class="content">
-          <img class="tx" src="../../assets/images/index/login-png/头像.png" alt="" />
+          <img
+            class="tx"
+            src="../../assets/images/index/login-png/头像.png"
+            alt=""
+          />
           <h2>Hi! 你好</h2>
           <div class="button">
             <button class="login1">登录</button>
@@ -12,19 +16,31 @@
           </div>
           <div class="tbbox">
             <div class="tb">
-              <img src="../../assets/images/index/login-png/宝贝收藏.png" alt="" />
+              <img
+                src="../../assets/images/index/login-png/宝贝收藏.png"
+                alt=""
+              />
               <p>宝贝收藏</p>
             </div>
             <div class="tb">
-              <img src="../../assets/images/index/login-png/买过的店.png" alt="" />
+              <img
+                src="../../assets/images/index/login-png/买过的店.png"
+                alt=""
+              />
               <p>买过的店</p>
             </div>
             <div class="tb">
-              <img src="../../assets/images/index/login-png/收藏的店.png" alt="" />
+              <img
+                src="../../assets/images/index/login-png/收藏的店.png"
+                alt=""
+              />
               <p>收藏的店</p>
             </div>
             <div class="tb">
-              <img src="../../assets/images/index/login-png/我的足迹.png" alt="" />
+              <img
+                src="../../assets/images/index/login-png/我的足迹.png"
+                alt=""
+              />
               <p>我的足迹</p>
             </div>
           </div>
@@ -59,7 +75,10 @@
         <div class="merchandise">
           <div class="right_pro-l">
             <div class="imgbox">
-              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
+              <img
+                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                alt=""
+              />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -70,7 +89,10 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
+              <img
+                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                alt=""
+              />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -81,7 +103,10 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
+              <img
+                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                alt=""
+              />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -92,7 +117,10 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
+              <img
+                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                alt=""
+              />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -103,7 +131,10 @@
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
-              <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
+              <img
+                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                alt=""
+              />
             </div>
             <div class="right_pro_l_l">
               <div class="right_pro-price1">￥20.6</div>
@@ -313,16 +344,215 @@
         </div>
       </div>
     </div>
+    <!-- 农户直销 -->
+    <div class="directselling">
+      <div class="title">
+        <p class="titlel">农户直销</p>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+      <div class="right-img-3-1">
+        <div class="img-3">
+          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+        </div>
+        <div class="img-nuber">
+          <p class="nuber-1">￥<span>30.00</span>元/斤</p>
+          <p class="nuber-2">50斤起批</p>
+        </div>
+        <div class="img-text">
+          <p>长岛淡晒海米金钩批发</p>
+        </div>
+        <div class="img-text-1">
+          <p class="it-1">库存：2000斤</p>
+          <p class="it-2">经销批发</p>
+        </div>
+      </div>
+
+    </div>
   </div>
 </template>
 <script>
 export default {
   computed: {
     isHide() {
-      return (!(this.$route.path == "/cardcat"))
+      return !(this.$route.path == "/cardcat");
     }
   }
-}
+};
 </script>
 
 <style>
@@ -426,11 +656,11 @@ export default {
   border-radius: 10px;
 }
 /* 热门商品标题 */
-.title{
+.title {
   width: 1200px;
   padding-bottom: 20px;
 }
-.titlel{
+.titlel {
   width: 140px;
   height: 40px;
   line-height: 40px;
@@ -585,5 +815,14 @@ h4 {
   display: flex;
   justify-content: space-between;
   padding: 0 13px;
+}
+/* 农户直销 */
+.directselling{
+  width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 </style>
