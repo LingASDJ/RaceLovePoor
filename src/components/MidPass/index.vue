@@ -572,7 +572,7 @@ export default {
       list: [
       ],
       // 图片起始位置
-      sliderValue: 1
+      sliderValue: 0
     };
   },
   methods: {
