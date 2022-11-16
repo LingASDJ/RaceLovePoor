@@ -37,6 +37,9 @@
     </div>
     <!-- 热门商品部分 -->
     <div class="hot-secondkill">
+      <div class="title">
+        <p class="titlel">热门商品</p>
+      </div>
       <!-- 秒杀 -->
       <div class="left">
         <h4>热门秒杀</h4>
@@ -114,6 +117,9 @@
     </div>
     <!-- 天天特价 -->
     <div class="Specialoffer">
+      <div class="title">
+        <p class="titlel">天天特价</p>
+      </div>
       <div class="right-img-3-1">
         <div class="img-3">
           <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
@@ -417,8 +423,24 @@ export default {
 .banner img {
   width: 800px;
   height: 400px;
+  border-radius: 10px;
 }
-
+/* 热门商品标题 */
+.title{
+  width: 1200px;
+  padding-bottom: 20px;
+}
+.titlel{
+  width: 140px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background: #ff5400;
+  margin: 0 auto;
+  border-radius: 20px;
+  color: #ffffff;
+  font-size: 20px;
+}
 /* 热门商品部分 */
 .hot-secondkill {
   width: 1200px;
