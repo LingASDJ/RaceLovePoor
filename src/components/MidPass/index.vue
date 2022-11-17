@@ -6,7 +6,7 @@
         <div class="content">
           <img
             class="tx"
-            src="../../assets/images/index/login-png/头像.png"
+            src="../../assets/images/logo/头像.png"
             alt=""
           />
           <h2>Hi! 你好</h2>
@@ -369,7 +369,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -385,7 +385,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -401,7 +401,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -417,7 +417,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -433,7 +433,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -449,7 +449,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -465,7 +465,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -481,7 +481,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -497,7 +497,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -513,7 +513,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -529,7 +529,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -545,7 +545,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <p class="it-2">经销批发</p>
+          <img src="../../assets/images/index/用户认证.png" alt="">
         </div>
       </div>
 
@@ -568,8 +568,7 @@ export default {
         {url: 'src/assets/images/index/banner/01.jpg', width: '100%', height: '100%'},
         {url: 'src/assets/images/index/banner/02.jpg', width: '100%', height: '100%'},
         {url: 'src/assets/images/index/banner/03.jpg', width: '100%', height: '100%'},
-        {url: 'src/assets/images/index/banner/05.jpg', width: '100%', height: '100%'},
-        // {url: 'src/assets/images/index/banner/01.jpg', width: '100%', height: '100%'},
+        {url: 'src/assets/images/index/banner/04.jpg', width: '100%', height: '100%'},
       ],
     };
   },
@@ -855,6 +854,10 @@ h4 {
   display: flex;
   justify-content: space-between;
   padding: 0 13px;
+}
+.img-text-1 img{
+  width: 20px;
+  height: 20px;
 }
 /* 农户直销 */
 .directselling{
