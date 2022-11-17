@@ -32,10 +32,10 @@
                     <input type="checkbox" id="checkcss">
                     <div class="shoptea">
                         <img src="../../assets/images/goods_img03.jpg" id="imgcss">
-                        <span id="sss4">乐事</span>
-                        <span id="sss4">11.45</span>
-                        <span id="sss4">514</span>
-                        <span id="sss4">1919810</span>
+                        <span id="sss4">巧克力</span>
+                        <span id="sss4">100</span>
+                        <span id="sss4">12.0</span>
+                        <span id="sss4">1200</span>
                         <span id="sss5">
                             <a href="#">详情</a>
                             <a href="#">移除</a>
@@ -43,6 +43,57 @@
                     </div>
                 </div>
             </div>
+          <div class="shopinfo">
+            <div class="shopactive">
+              <!-- <img class="shopactive" src="../../assets/images/goods_img03.jpg"> -->
+              <input type="checkbox" id="checkcss">
+              <div class="shoptea">
+                <img src="../../assets/images/goods_img03.jpg" id="imgcss">
+                <span id="sss4">巧克力</span>
+                <span id="sss4">100</span>
+                <span id="sss4">12.0</span>
+                <span id="sss4">1200</span>
+                <span id="sss5">
+                            <a href="#">详情</a>
+                            <a href="#">移除</a>
+                        </span>
+              </div>
+            </div>
+          </div>
+          <div class="shopinfo">
+            <div class="shopactive">
+              <!-- <img class="shopactive" src="../../assets/images/goods_img03.jpg"> -->
+              <input type="checkbox" id="checkcss">
+              <div class="shoptea">
+                <img src="../../assets/images/goods_img03.jpg" id="imgcss">
+                <span id="sss4">巧克力</span>
+                <span id="sss4">100</span>
+                <span id="sss4">12.0</span>
+                <span id="sss4">1200</span>
+                <span id="sss5">
+                            <a href="#">详情</a>
+                            <a href="#">移除</a>
+                        </span>
+              </div>
+            </div>
+          </div>
+          <div class="shopinfo">
+            <div class="shopactive">
+              <!-- <img class="shopactive" src="../../assets/images/goods_img03.jpg"> -->
+              <input type="checkbox" id="checkcss">
+              <div class="shoptea">
+                <img src="../../assets/images/goods_img03.jpg" id="imgcss">
+                <span id="sss4">巧克力</span>
+                <span id="sss4">100</span>
+                <span id="sss4">12.0</span>
+                <span id="sss4">1200</span>
+                <span id="sss5">
+                            <a href="#">详情</a>
+                            <a href="#">移除</a>
+                        </span>
+              </div>
+            </div>
+          </div>
         </div>
     </div>
   </template>
