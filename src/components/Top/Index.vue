@@ -36,7 +36,7 @@
               <div class="menu_hd"><router-link to="/login">免费注册</router-link></div>
             </li>
             <li class="fl">
-              <div class="menu_hd"><a href="#">采购大厅</a></div>
+              <div class="menu_hd"><router-link to="/Buy">采购大厅</router-link></div>
             </li>
             <li class="fl"><i class="shortcut_s"></i></li>
             <li class="fl">

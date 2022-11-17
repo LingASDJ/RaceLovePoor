@@ -4,7 +4,7 @@
     <Header></Header>
     <Index></Index>
     <Footer></Footer>
-      <Login></Login>
+<!--      <Login></Login>-->
 
     <!-- 路由出口 -->
     <!-- <router-view></router-view> -->
@@ -33,7 +33,7 @@ export default {
   },
   computed: {
     isHide() {
-      return (this.$route.path == "/login");
+      return (this.$route.path == "/login") && (this.$route.path == "/Buy");
     }
   },
 };

@@ -10,6 +10,7 @@ import MidPass from '../components/MidPass/index'
 //{Pages}
 import CardCat from '../pages/CardCat/index'
 import Login from '../pages/Login/login'
+import Buy from '../pages/Buy/Buy'
 
 // 1.通过Vue.use(插件)，安装插件
 Vue.use(VueRouter)
@@ -35,6 +36,10 @@ const routes = [
   {
     path:'/login',
     component: Login
+  },
+  {
+    path:'/Buy',
+    component: Buy,
   }
 ]
 
