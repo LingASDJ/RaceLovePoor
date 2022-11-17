@@ -612,7 +612,6 @@ export default {
 
 .login {
   width: 380px;
-  height: 400px;
   display: flex;
   flex-direction: column;
 }
@@ -686,7 +685,8 @@ export default {
 
 .banner {
   width: 800px;
-  height: 400px;
+  padding-top: 35px;
+
 }
 
 .banner img {
@@ -866,7 +866,4 @@ h4 {
     flex-wrap: wrap;
 }
 
-.banner{
-  padding-top: 35px;
-}
 </style>
