@@ -2,9 +2,9 @@
   <div id="login">   <div class="img">
         <img src="../../assets/image-Sunny/banner/banner5.jpg" alt="">
       </div>
-  
+
     <div class="big">
-      <div class="topone"><img src="../../assets/images/logo/lv.png" alt=""></img></div>
+      <div class="topone"><img src="../../assets/image/index/" alt=""></div>
       <h1></h1>
       <div class="entry">
         <div class="loginon">
@@ -27,13 +27,13 @@
               <a href="">验证码登录</a>
             </div>
           </div>
-          
+
         </div>
       </div>
       <div class="refer">
         <a href="" class="dl">登录</a>
           <a href="">注册</a>
-    </div> 
+    </div>
     <div class="pact">
         <input type="checkbox" />同意
     <a href="">《服务条款》</a>
@@ -41,7 +41,7 @@
     <a href="">《儿童隐私政策》</a>
     </div>
 </div>
-   
+
   </div>
 </template>
 
@@ -58,14 +58,14 @@ export default {};
     height: 600px;
     width: 1200px;
     margin: 0  auto;
-  
+
 }
 /* 大盒子 */
 .big {
   width: 300px;
   height: 400px;
   background-color: rgba(255, 255, 255, .6);
- border-radius:10px; 
+ border-radius:10px;
  position: relative;
  top: -525px;
  left: 450px;
@@ -136,7 +136,7 @@ h1 {
     font-size: 17px;
     /* background-color: #e11926; */
     /* /* text-align: center; */
-    margin: 0 auto; 
+    margin: 0 auto;
     margin-top: 10px;
 }
 .refer a{

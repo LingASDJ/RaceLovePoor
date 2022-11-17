@@ -5,7 +5,7 @@
         <div class="w">
           <ul class="fl 1h">
             <li class="fl">
-              <div class="menu_hd"><a href="#">回到首页</a></div>
+              <div class="menu_hd"><a href="http://localhost:8080">回到首页</a></div>
             </li>
             <li class="fl">
               <div class="menu">
@@ -28,7 +28,9 @@
               <div class="menu_hd">您好，欢迎来到巧农人暖心助农购物商城！</div>
             </li>
             <li class="fl">
-              <div class="menu_hd"><a href="#">请登录</a></div>
+              <div class="menu_hd">
+                <router-link to="/login">请登录</router-link>
+              </div>
             </li>
             <li class="fl">
               <div class="menu_hd"><a href="#">免费注册</a></div>
@@ -54,7 +56,9 @@
             </li>
             <li class="fl"><i class="shortcut_s"></i></li>
             <li class="fl">
-              <div class="menu_hd"><a href="#">我的购物车</a></div>
+              <div class="menu_hd">
+                <router-link to="/cardcat">我的购物车</router-link>
+              </div>
             </li>
             <li class="fl"><i class="shortcut_s"></i></li>
             <li class="fl">
@@ -67,7 +71,7 @@
       <!-- <router-view></router-view> -->
     </div>
   </template>
-  
+
   <script>
   // 导出，然后在index.js中导入
   export default {
@@ -84,4 +88,3 @@
     }
   };
   </script>
-  

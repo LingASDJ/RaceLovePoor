@@ -585,7 +585,7 @@ export default {
   },
   computed: {
     isHide() {
-      return !(this.$route.path == "/cardcat");
+      return !(this.$route.path == "/cardcat") && !(this.$route.path == "/login");
     }
   },
   created(){

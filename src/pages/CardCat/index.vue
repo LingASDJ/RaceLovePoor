@@ -46,31 +46,14 @@
         </div>
     </div>
   </template>
-  
+
   <script>
   export default {
     name: "CardCat",
     props: {
     active: {
       default: "等待结算"
-    },
-    books:[
-            {
-                id:'1',
-                name:'三国',
-                date:new Date()
-            },
-            {
-                id:'2',
-                name:'水浒',
-                date:new Date()
-            },
-            {
-                id:'3',
-                name:'红楼梦',
-                date:new Date()
-            },
-        ]
+    }
   },
   }
   </script>
