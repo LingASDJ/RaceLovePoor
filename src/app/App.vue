@@ -4,7 +4,11 @@
     <Header></Header>
     <Index></Index>
     <Footer></Footer>
-<!--      <Login></Login>-->
+    <!--页面约束-->
+    <div  v-show="isHide">
+      <Login></Login>
+    </div>
+
 
     <!-- 路由出口 -->
     <!-- <router-view></router-view> -->
@@ -32,8 +36,9 @@ export default {
     Footer,
   },
   computed: {
+    //约束页面
     isHide() {
-      return (this.$route.path == "/login") && (this.$route.path == "/Buy");
+      return (this.$route.path === "/login");
     }
   },
 };
