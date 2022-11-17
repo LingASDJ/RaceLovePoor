@@ -48,21 +48,14 @@
       </div>
       <div class="banner">
         <!-- Vue-Easy轮播图插件 -->
-        <Slider
-        animation="fade"
-        v-model="sliderValue"
-        :duration="5000"
-        :speed="1000" style="border-radius: 30px;">
-        <SliderItem
-          v-for="(i, index) in list"
-          :key="index"
-          @click="changeIndex(1);"
-          :style="i">
-          <!-- <p style="line-height: 280px; font-size: 5rem; text-align: center;">
-             Page{{ index + 1 }}
-          </p> -->
-        </SliderItem>
-      </Slider>
+        <Slider animation="fade" >
+          <Slider-item
+            v-for="({url,width,height}, index) in list"
+            :key="index"
+            :style="{width,height}">
+            <img :src="url" style="height:inherit;">
+          </Slider-item>
+        </Slider>
       </div>
     </div>
     <!-- 热门商品部分 -->
@@ -569,37 +562,35 @@ export default {
   },
   data() {
     return {
+      sliderIndex: 1,
+      //轮播图插件
       list: [
+        {url: 'src/assets/images/index/banner/01.jpg', width: '100%', height: '100%'},
+        {url: 'src/assets/images/index/banner/02.jpg', width: '100%', height: '100%'},
+        {url: 'src/assets/images/index/banner/03.jpg', width: '100%', height: '100%'},
+        {url: 'src/assets/images/index/banner/05.jpg', width: '100%', height: '100%'},
+        // {url: 'src/assets/images/index/banner/01.jpg', width: '100%', height: '100%'},
       ],
-      // 图片起始位置
-      sliderValue: 0
     };
   },
   methods: {
-    changeIndex(index) {
-      this.sliderValue = index;
-    }
+    setTimer() {
+      this.timer = setInterval(() => {
+        this.listIndex++;
+        if (this.listIndex == this.list.length) {
+          this.listIndex = 0;
+        }
+      }, 1000);
+    },
   },
   computed: {
     isHide() {
       return !(this.$route.path == "/cardcat");
     }
   },
-  mounted() {
-    setTimeout(
-      () =>
-        (this.list = [
-          {
-            background:'url(src/assets/images/index/banner/01.jpg) no-repeat top center #e11926',
-          },
-          {
-            background:'url(src/assets/images/index/banner/02.jpg) no-repeat top center #e11926',
-          },
-
-        ]),
-      1000
-    );
-  }  
+  created(){
+    this.setTimer();
+  },
   };
 </script>
 
