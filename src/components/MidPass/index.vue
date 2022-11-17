@@ -807,8 +807,9 @@ h4 {
   display: inline-block;
   font-size: 14px;
   padding: 3px 6px;
-  color: rgb(235, 235, 235);
-  background-color: #3a880e;
+  color: rgb(255, 0, 0);
+  background-color: #ffffff;
+  font-weight: bold;
   margin-right: 10px;
 }
 
