@@ -6,7 +6,7 @@
         <div class="content">
           <img
             class="tx"
-            src="../../assets/images/logo/头像.png"
+            src="../../assets/images/logo/headimg.png"
             alt=""
           />
           <h2>Hi! 你好</h2>
@@ -369,7 +369,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -385,7 +385,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -401,7 +401,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -417,7 +417,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -433,7 +433,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -449,7 +449,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -465,7 +465,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -481,7 +481,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -497,7 +497,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -513,7 +513,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -529,7 +529,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
       <div class="right-img-3-1">
@@ -545,7 +545,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/用户认证.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="">
         </div>
       </div>
 

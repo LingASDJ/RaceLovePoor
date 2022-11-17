@@ -4,7 +4,9 @@
       </div>
 
     <div class="big">
-      <div class="topone"><img src="../../assets/image/index/" alt=""></div>
+      <div class="topone">
+        <img src="../../assets/images/logo/headimg.png" alt="">
+      </div>
       <h1></h1>
       <div class="entry">
         <div class="loginon">
@@ -70,12 +72,16 @@ export default {};
  top: -525px;
  left: 450px;
 }
+.topone{
+  display: flex;
+  justify-content: center
+}
+
 .topone img{
-  width: 200px;
-  height: 200px;
+  width: 90px;
+  height: 90px;
   position: absolute;
-  top: -56px;
-  left: 52px;
+  margin: 20px auto;
 }
 /* login */
 h1 {
@@ -157,7 +163,7 @@ h1 {
     border-radius: 10px;
 }
 .pact{
-    margin-top: 50px;
+    margin-top: 36px;
     margin-left: 10px;
     height:30px;
     color: #000;
