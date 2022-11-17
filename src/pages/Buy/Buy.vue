@@ -650,7 +650,7 @@ margin: 0 auto;
    width:180px;
   height:230px;
   background: white;
- margin-left: 10px;
+margin: 0 auto;
 }
 .img img{
   width: 160px;
