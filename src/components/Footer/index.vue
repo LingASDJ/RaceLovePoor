@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" v-show="isHide">
     <div class="promise_box">
       <!-- <router-link to="/Footer" tag="a">DKSHWFSIHFSI</router-link> -->
       <div class="w">
@@ -111,7 +111,7 @@
         </p>
         <pre>
     经营许可证：川B2-20130223备案许可证：川ICP备13041162号-1360网站安全检测平台
-    ©2022 巧农人电商网络科技发展有限公司 &copy;  版权所有  
+    ©2022 巧农人电商网络科技发展有限公司 &copy;  版权所有
                 </pre
         >
       </div>
@@ -146,7 +146,12 @@
 
 <script>
 export default {
-  name: "About"
+  name: "About",
+  computed: {
+    isHide() {
+      return !(this.$route.path == "/login");
+    }
+  },
 };
 </script>
 

@@ -33,7 +33,7 @@
               </div>
             </li>
             <li class="fl">
-              <div class="menu_hd"><a href="#">免费注册</a></div>
+              <div class="menu_hd"><router-link to="/login">免费注册</router-link></div>
             </li>
             <li class="fl">
               <div class="menu_hd"><a href="#">采购大厅</a></div>

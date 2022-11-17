@@ -11,8 +11,8 @@
           />
           <h2>Hi! 你好</h2>
           <div class="button">
-            <button class="login1">登录</button>
-            <button class="register1">注册</button>
+            <router-link to="/login"><button class="login1">登录</button></router-link>
+            <router-link to="/login"><button class="register1">注册</button></router-link>
           </div>
           <div class="tbbox">
             <div class="tb">

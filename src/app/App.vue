@@ -4,6 +4,8 @@
     <Header></Header>
     <Index></Index>
     <Footer></Footer>
+      <Login></Login>
+
     <!-- 路由出口 -->
     <!-- <router-view></router-view> -->
   </div>
@@ -17,16 +19,23 @@ import Top from"../components/Top/index";
 import Header from "../components/Header/index";
 import Index from "../components/MidPass/index";
 import Footer from "../components/Footer/index";
+import Login from "../pages/Login/login";
 // import Login  from "../pages/Login/login.vue";
 export default {
   name: "App",
   //注册组件
   components: {
+    Login,
     Top,
     Header,
     Index,
-    Footer
-  }
+    Footer,
+  },
+  computed: {
+    isHide() {
+      return (this.$route.path == "/login");
+    }
+  },
 };
 </script>
 

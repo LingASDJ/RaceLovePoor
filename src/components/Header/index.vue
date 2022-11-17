@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" v-show="isHide">
     <!-- <router-link to="/Home" tag="a">DKSHWFSIHFSI</router-link> -->
     <!--顶部Logo及搜索-->
     <div class="header_2022">
@@ -68,6 +68,11 @@ export default {
   methods: {
     CardCatLink() {
       this.$router.replace("/cardcat");
+    }
+  },
+  computed: {
+    isHide() {
+      return !(this.$route.path == "/login");
     }
   }
 };
