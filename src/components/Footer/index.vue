@@ -131,9 +131,9 @@
         <li>
           <a href="#gzh" class="fixed-weixin"
             ><img src="../../assets/images/fixed_weixin.png" />
-            <div class="weixin-pic">
+            <!-- <div class="weixin-pic">
               <img src="../../assets/images/weixin_big.jpg" />
-            </div>
+            </div> -->
           </a>
         </li>
         <li>
