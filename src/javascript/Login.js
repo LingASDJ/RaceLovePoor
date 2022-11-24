@@ -1,9 +1,9 @@
-//window.onload = function() {
-var account = document.querySelector('#account');
-var password1 = document.querySelector('#password1');
-var reg1 = /^[1][3-9][0-9]{9}$/;
-var reg9 = /^(?=.*\d)(?=.*[A-Za-z])(?=.*[!@#$%^&*()`_+-=`][;',./{}:"<>?]).{8,20}$/;
-loginbtn.addEventListener('click', function() {
+window.onload = function() {
+    var account = document.querySelector('#account');
+    var password1 = document.querySelector('#password1');
+    var reg1 = /^[1][3-9][0-9]{9}$/;
+    var reg9 = /^(?=.*\d)(?=.*[A-Za-z])(?=.*[!@#$%^&*()`_+-=`][;',./{}:"<>?]).{8,20}$/;
+    loginbtn.addEventListener('click', function() {
         if (account.value == '' || password1.value == '') {
             alert('不能为空');
         } else {
@@ -19,4 +19,4 @@ loginbtn.addEventListener('click', function() {
             }
         }
     })
-    //}
+}

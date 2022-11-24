@@ -18,6 +18,10 @@ module.exports = {
         ],
       },
       {
+        test: /\.(eot|svg|ttf|woff|woff2)(\?\S*)?$/,
+        loader: 'file-loader'
+     },     
+      {
         test: /\.scss$/,
         use: [
           'vue-style-loader',
@@ -83,6 +87,7 @@ module.exports = {
   performance: {
     hints: false
   },
+  
   devtool: '#eval-source-map'
 }
 
