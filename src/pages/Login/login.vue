@@ -1,9 +1,11 @@
 <template>
 
+
   <div id="login">  
 <div class="img">
         <img src="../../assets/image-Sunny/banner/banner6.png" alt="">
       </div>
+
 
     <div class="big">
       <div class="topone">
@@ -14,12 +16,14 @@
         <div class="loginon">
           <div class="login-top">
 
+
             <div class="name">
               账号：<input type="text"  name="account" placeholder="邮箱/用户名/登录手机">
             </div>
             <div class="name">
               密码：<input type="password" name="password1" placeholder="请输入密码">
             </div>
+
 
           </div>
           <div class="login-buttom">
@@ -38,6 +42,7 @@
       <div class="refer">
         <a href="" class="dl">登录</a>
 
+
       </div>
     <div class="regist-link">
       <a href="../../pages/regist/regist.vue">
@@ -49,6 +54,7 @@
 
       </div>
       <div class="pact">
+
 
         <input type="checkbox" />同意
         <a href="">《服务条款》</a>
@@ -112,6 +118,7 @@ h1 {
 }
 .login-top .name {
   margin: 20px auto;
+
 }
 
 .refer a:nth-child(1){
@@ -119,7 +126,7 @@ h1 {
     color: white;
     border-radius: 10px;
 }
-.login-top .name input{
+.login-top .name input {
   width: 220px;
 }
 /* 附属小标签 */
@@ -152,6 +159,7 @@ h1 {
 .right {
   display: inline-block;
 }
+
 
 .refer{
     width: 280px;
@@ -207,6 +215,7 @@ width: 85px;
   justify-content: center;
   align-items: center;
 }
+
 .pact a {
   color: #000;
 }
