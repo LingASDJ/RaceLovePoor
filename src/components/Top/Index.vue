@@ -5,7 +5,7 @@
         <div class="w">
           <ul class="fl 1h">
             <li class="fl">
-              <div class="menu_hd"><a href="http://localhost:8080">回到首页</a></div>
+              <div class="menu_hd"><router-link to="/">回到首页</router-link></div>
             </li>
             <li class="fl">
               <div class="menu">
@@ -40,7 +40,7 @@
             </li>
             <li class="fl"><i class="shortcut_s"></i></li>
             <li class="fl">
-              <div class="menu_hd"><a href="#">暖心助农</a></div>
+              <div class="menu_hd"><router-link to="/AboutX">暖心助农</router-link></div>
             </li>
             <li class="fl"><i class="shortcut_s"></i></li>
             <li class="fl">
@@ -62,7 +62,7 @@
             </li>
             <li class="fl"><i class="shortcut_s"></i></li>
             <li class="fl">
-              <div class="menu_hd"><a href="#">关于我们</a></div>
+              <div class="menu_hd"><router-link to="/Story">关于我们</router-link></div>
             </li>
           </ul>
           <span class="clr"></span>
