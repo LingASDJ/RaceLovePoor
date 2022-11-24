@@ -44,17 +44,13 @@
           </div>
         </div>
       </div>
-      <div class="box">
-        <ul id="car">
-          <div class="spsl">
-            <li class="spxq">宝贝数量：</li>
-          </div>
-          <div class="slzj">
-              <button v-on:click="sub()">-</button>
-              <input type="text" value="1" size="1" v-model="count" />
-              <button v-on:click="add()">+</button>
-          </div>
-        </ul>
+      <div id="car">
+        <div class="ggxz">宝贝数量：</div>
+        <div class="slzj">
+          <button v-on:click="sub()">-</button>
+          <input class="slzjk" type="text" value="1" size="1" v-model="count" />
+          <button v-on:click="add()">+</button>
+        </div>
       </div>
       <!-- 底部按钮 -->
       <div class="spbutton">
@@ -207,7 +203,7 @@ export default {
 #car div {
   display: inline-block;
 }
-.spzj input {
+.slzjk {
   text-align: center;
 }
 
