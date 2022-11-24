@@ -74,6 +74,41 @@
         <div class="spcn">(柜台转账/网银转账)</div>
       </div>
     </div>
+    <!-- 商品底部 -->
+    <div class="spbottom">
+      <div class="l_wrap fl clearfix">
+        <h3>新品推荐</h3>
+        <ul>
+          <li>
+            <a href="#"><img src="images/goods/goods001.jpg"/></a>
+            <h4><a href="#">进口柠檬</a></h4>
+            <div class="prize">￥3.90</div>
+          </li>
+          <li>
+            <a href="#"><img src="images/goods/goods002.jpg"/></a>
+            <h4><a href="#">玫瑰香葡萄</a></h4>
+            <div class="prize">￥16.80</div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="r_wrap fr clearfix">
+        <ul class="detail_tab clearfix">
+          <li class="active">商品介绍</li>
+          <li>评论</li>
+        </ul>
+
+        <div class="tab_content">
+          <dl>
+            <dt>商品详情：</dt>
+            <dd>
+              草莓采摘园位于北京大兴区 庞各庄镇四各庄村
+              ，每年1月-6月面向北京以及周围城市提供新鲜草莓采摘和精品礼盒装草莓，草莓品种多样丰富，个大香甜。所有草莓均严格按照有机标准培育，不使用任何化肥和农药。草莓在采摘期间免洗可以直接食用。欢迎喜欢草莓的市民前来采摘，也欢迎各大单位选购精品有机草莓礼盒，有机草莓礼盒是亲朋馈赠、福利送礼的最佳选择。
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 <script>
@@ -228,5 +263,10 @@ export default {
   font-size: 12px;
   letter-spacing: 0;
   flex: 0 0 auto;
+}
+/* 商品底部 */
+.spbottom {
+  width: 1200px;
+  margin: 0 auto;
 }
 </style>
