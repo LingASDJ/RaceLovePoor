@@ -1,12 +1,8 @@
 <template>
-
-
-  <div id="login">  
+<div id="login">  
 <div class="img">
         <img src="../../assets/image-Sunny/banner/banner6.png" alt="">
       </div>
-
-
     <div class="big">
       <div class="topone">
         <img src="../../assets/images/logo/headimg.png" alt="" />
@@ -50,9 +46,7 @@
         <p>立即注册</p>
         </a>
     </div>
-
-
-      </div>
+   </div>
       <div class="pact">
 
 
@@ -62,7 +56,6 @@
         <a href="">《儿童隐私政策》</a>
       </div>
     </div>
-  </div>
 </template>
 
 <script>
