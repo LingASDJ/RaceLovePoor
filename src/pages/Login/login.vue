@@ -71,7 +71,7 @@
         let password = this.password;
         // console.log("username=%s,password=%s",username,password);
         //定义请求路径
-        let url = 'http://localhost:8080/src/java/UserAction.java';
+        let url = '/src/java/UserAction.java';
         //定义请求参数
         let params = {
           username: username,
