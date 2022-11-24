@@ -771,6 +771,9 @@ h4 {
 }
 
 /* 2.商品 */
+.right{
+  width: 980px;
+}
 .right_pro-l {
   background-color: rgb(230, 230, 230);
   width: 190px;
