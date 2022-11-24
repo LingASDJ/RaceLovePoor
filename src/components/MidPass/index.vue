@@ -4,15 +4,15 @@
     <div class="Toprotation">
       <div class="login">
         <div class="content">
-          <img
-            class="tx"
-            src="../../assets/images/logo/headimg.png"
-            alt=""
-          />
+          <img class="tx" src="../../assets/images/logo/headimg.png" alt="" />
           <h2>Hi! 你好</h2>
           <div class="button">
-            <router-link to="/login"><button class="login1">登录</button></router-link>
-            <router-link to="/login"><button class="register1">注册</button></router-link>
+            <router-link to="/login"
+              ><button class="login1">登录</button></router-link
+            >
+            <router-link to="/login"
+              ><button class="register1">注册</button></router-link
+            >
           </div>
           <div class="tbbox">
             <div class="tb">
@@ -48,12 +48,13 @@
       </div>
       <div class="banner">
         <!-- Vue-Easy轮播图插件 -->
-        <Slider animation="fade" >
+        <Slider animation="fade">
           <Slider-item
-            v-for="({url,width,height}, index) in list"
+            v-for="({ url, width, height }, index) in list"
             :key="index"
-            :style="{width,height}">
-            <img :src="url" style="height:inherit;">
+            :style="{ width, height }"
+          >
+            <img :src="url" style="height:inherit;" />
           </Slider-item>
         </Slider>
       </div>
@@ -82,8 +83,24 @@
         <div class="merchandise">
           <div class="right_pro-l">
             <div class="imgbox">
+              <router-link to="/Details">
+                <img
+                  src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                  alt=""
+                />
+              </router-link>
+            </div>
+            <div class="right_pro_l_l">
+              <div class="right_pro-price1">￥20.6</div>
+              <div class="right_pro-price2">￥36.6</div>
+              <p>广东高州荔枝</p>
+              <span>精品</span>
+            </div>
+          </div>
+          <div class="right_pro-l">
+            <div class="imgbox">
               <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                src="../../assets/images/index/农产品图/农副/黄花.jpg"
                 alt=""
               />
             </div>
@@ -97,7 +114,7 @@
           <div class="right_pro-l">
             <div class="imgbox">
               <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                src="../../assets/images/index/农产品图/水果/车厘子.jpg"
                 alt=""
               />
             </div>
@@ -111,35 +128,21 @@
           <div class="right_pro-l">
             <div class="imgbox">
               <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                src="../../assets/images/index/农产品图/水产/对虾.jpg"
                 alt=""
               />
             </div>
             <div class="right_pro_l_l">
-              <div class="right_pro-price1">￥20.6</div>
-              <div class="right_pro-price2">￥36.6</div>
-              <p>广东高州荔枝</p>
+              <div class="right_pro-price1">￥78.8</div>
+              <div class="right_pro-price2">￥99.8</div>
+              <p>青岛冰鲜大虾4斤装</p>
               <span>精品</span>
             </div>
           </div>
           <div class="right_pro-l">
             <div class="imgbox">
               <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
-                alt=""
-              />
-            </div>
-            <div class="right_pro_l_l">
-              <div class="right_pro-price1">￥20.6</div>
-              <div class="right_pro-price2">￥36.6</div>
-              <p>广东高州荔枝</p>
-              <span>精品</span>
-            </div>
-          </div>
-          <div class="right_pro-l">
-            <div class="imgbox">
-              <img
-                src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                src="../../assets/images/index/农产品图/水产/小龙虾.jpg"
                 alt=""
               />
             </div>
@@ -160,7 +163,7 @@
       </div>
       <div class="right-img-3-1">
         <div class="img-3">
-          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+          <img src="../../assets/images/index/农产品图/水产/对虾.jpg" />
         </div>
         <div class="img-nuber">
           <p class="nuber-1">￥<span>30.00</span>元/斤</p>
@@ -192,7 +195,7 @@
       </div>
       <div class="right-img-3-1">
         <div class="img-3">
-          <img src="../../assets/images/index/农产品图/农副/枸杞.jpg" />
+          <img src="../../assets/images/index/农产品图/农副/鹿茸菇.jpg" />
         </div>
         <div class="img-nuber">
           <p class="nuber-1">￥<span>30.00</span>元/斤</p>
@@ -369,7 +372,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -385,7 +388,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -401,7 +404,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -417,7 +420,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -433,7 +436,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -449,7 +452,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -465,7 +468,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -481,7 +484,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -497,7 +500,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -513,7 +516,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -529,7 +532,7 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
       <div class="right-img-3-1">
@@ -545,10 +548,9 @@
         </div>
         <div class="img-text-1">
           <p class="it-1">库存：2000斤</p>
-          <img src="../../assets/images/index/UserActive.png" alt="">
+          <img src="../../assets/images/index/UserActive.png" alt="" />
         </div>
       </div>
-
     </div>
   </div>
 </template>
@@ -565,11 +567,27 @@ export default {
       sliderIndex: 1,
       //轮播图插件
       list: [
-        {url: 'src/assets/images/index/banner/01.jpg', width: '100%', height: '100%'},
-        {url: 'src/assets/images/index/banner/02.jpg', width: '100%', height: '100%'},
-        {url: 'src/assets/images/index/banner/03.jpg', width: '100%', height: '100%'},
-        {url: 'src/assets/images/index/banner/04.jpg', width: '100%', height: '100%'},
-      ],
+        {
+          url: "src/assets/images/index/banner/01.jpg",
+          width: "100%",
+          height: "100%"
+        },
+        {
+          url: "src/assets/images/index/banner/02.jpg",
+          width: "100%",
+          height: "100%"
+        },
+        {
+          url: "src/assets/images/index/banner/03.jpg",
+          width: "100%",
+          height: "100%"
+        },
+        {
+          url: "src/assets/images/index/banner/04.jpg",
+          width: "100%",
+          height: "100%"
+        }
+      ]
     };
   },
   methods: {
@@ -580,17 +598,22 @@ export default {
           this.listIndex = 0;
         }
       }, 1000);
-    },
+    }
   },
   computed: {
     isHide() {
-      return !(this.$route.path == "/cardcat") && !(this.$route.path == "/login") && !(this.$route.path == "/Buy");
+      return (
+        !(this.$route.path == "/cardcat") &&
+        !(this.$route.path == "/login") &&
+        !(this.$route.path == "/Buy") &&
+        !(this.$route.path == "/Details")
+      );
     }
   },
-  created(){
+  created() {
     this.setTimer();
-  },
-  };
+  }
+};
 </script>
 
 <style>
@@ -685,7 +708,6 @@ export default {
 .banner {
   width: 800px;
   padding-top: 35px;
-
 }
 
 .banner img {
@@ -855,18 +877,17 @@ h4 {
   justify-content: space-between;
   padding: 0 13px;
 }
-.img-text-1 img{
+.img-text-1 img {
   width: 20px;
   height: 20px;
 }
 /* 农户直销 */
-.directselling{
+.directselling {
   width: 1200px;
-    margin: 0 auto;
-    padding-bottom: 20px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
-
 </style>

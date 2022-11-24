@@ -72,7 +72,7 @@
           <div class="bottom-links-title">巧农人公众号</div>
           <ul class="clearfix gzhtp">
             <li>
-              <img src="../../assets/images/公众号二维码.png" />
+              <img src="../../assets/images/公众号二维码.png"  id="gzh"/>
             </li>
           </ul>
         </li>
@@ -129,15 +129,17 @@
     <div class="fixed-buttons">
       <ul>
         <li>
-          <a href="#" class="fixed-weixin"
+          <a href="#gzh" class="fixed-weixin"
             ><img src="../../assets/images/fixed_weixin.png" />
-            <div class="weixin-pic">
+            <!-- <div class="weixin-pic">
               <img src="../../assets/images/weixin_big.jpg" />
-            </div>
+            </div> -->
           </a>
         </li>
         <li>
-          <img id="imgBtn-to-top" src="../../assets/images/back_top.png" />
+          <a href="#">
+            <img id="imgBtn-to-top" src="../../assets/images/back_top.png" />
+          </a>
         </li>
       </ul>
     </div>
@@ -151,7 +153,7 @@ export default {
     isHide() {
       return !(this.$route.path == "/login");
     }
-  },
+  }
 };
 </script>
 

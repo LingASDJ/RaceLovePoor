@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="classify-right">
-            <!-- <div class="fruits">
+            <div class="commodity" style="display: none;"> 
               <div class="fruit1">
                 <div class="banana">
                     <img src="../../assets/image-Sunny/fruit/fig.jpg" alt="">
@@ -171,8 +171,8 @@
                 </div>
               </div>                       
                                 
-            </div> -->
-            <!-- <div class="vegetabale">
+            </div>
+            <div class="commodity" style="display: none;">
               <div class="vegetables">
                 <img src="../../assets/image-Sunny/vegetable/兰菜.jpg" alt="">
               </div>
@@ -257,8 +257,8 @@
               <div class="vegetables">
                 <img src="../../assets/image-Sunny/vegetable/菠菜1.jpg" alt="">
               </div>
-            </div> -->
-        <div class="meet1">
+            </div>
+        <div class="commodity" style="display: none;">
             <div class="meets">
                 <img src="../../assets/image-Sunny/meet/chook/chicken/chicken1.jpg" alt="">
             </div>
@@ -605,7 +605,7 @@ margin: 0 auto;
     height: 400px;
     /* background-color: rgb(171, 15, 155); */
 }
-.fruits,.vegetabale,.meet1{
+.conmmodity{
     width: 770px;
     height: 400px;
     /* background-color: red; */
@@ -650,7 +650,7 @@ margin: 0 auto;
    width:180px;
   height:230px;
   background: white;
- margin-left: 10px;
+margin: 0 auto;
 }
 .img img{
   width: 160px;

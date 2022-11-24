@@ -20,7 +20,7 @@
   border-radius: 30px;
   background-color: rgb(226, 244, 239);
   line-height: 75px;
-  margin:10px 10px;
+  margin:10px 20px;
 }
 
 .shoptea{
@@ -91,18 +91,18 @@
     justify-content: center;
     align-items: baseline;
     /*  声明列的宽度  */
-    margin:0 10px;
+    margin:0 -95px;
     // padding: 0 20px;
     /*  声明行的高度  */
   }
 
   #imgcss{
     border-radius: 30px;
-    width: 150px;
+    width: 75px;
     height: 75px;
+    margin-right:54px;
   }
 
   #checkcss{
     height: 75px;
   }
-  
