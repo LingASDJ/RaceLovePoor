@@ -139,6 +139,7 @@ export default {
   height: 40px;
   line-height: 40px;
   font-size: 16px;
+  color: #393939;
 }
 #hswz {
   color: #e11926;
@@ -166,6 +167,7 @@ export default {
   height: 40px;
   line-height: 40px;
   font-size: 16px;
+  color: #393939;
 }
 .spgg {
   width: 590px;
@@ -199,11 +201,18 @@ export default {
   width: 140px;
   height: 40px;
   line-height: 40px;
+  font-size: 16px;
+}
+.slzj button {
+  width: 28px;
+  height: 28px;
 }
 #car div {
   display: inline-block;
 }
 .slzjk {
+  width: 48px;
+  height: 22px;
   text-align: center;
 }
 
