@@ -10,24 +10,24 @@
             </div>
           </div>
           <div class="varity">
-            <div class="vegetable">
+          
               <a href="#txsc"> 蔬菜类>></a>
-            </div>
+           
           </div>
           <div class="varity">
-            <div class="meet">
+         
               <a href="#txrs">肉&nbsp;&nbsp;&nbsp;&nbsp;类>></a>
-            </div>
+           
           </div>
           <div class="varity">
-            <div class="water">
+           
               <a href="#txwoter"> 水产类>></a>
-            </div>
+            
           </div>
           <div class="varity">
-            <div class="bean">
+           
               <a href="#txdp">豆&nbsp;&nbsp;&nbsp;&nbsp;类>></a>
-            </div>
+           
           </div>
         </div>
         <div class="classify-right">
@@ -167,10 +167,11 @@
     <div class="excllence"> 
         <div class="you">精品优选 
         </div>
-        <h3 id="txsg">今日特销水果>></h3>
+        <h3 id="txsg">今日特销水果</h3>
         <div class="goods">
           <div class="goods1">
-            <div class="imgs">
+         <div class="goods1-1">
+          <div class="imgs">
               <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
@@ -180,9 +181,11 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
+         <div class="goods1-1">
+          <div class="imgs">
               <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
@@ -192,9 +195,11 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
+         <div class="goods1-1">
+          <div class="imgs">
               <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
@@ -204,9 +209,11 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
+         <div class="goods1-1">
+          <div class="imgs">
               <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
@@ -216,9 +223,11 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
+         <div class="goods1-1">
+          <div class="imgs">
               <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
@@ -228,10 +237,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -240,10 +251,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -252,10 +265,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -264,10 +279,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -276,10 +293,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -288,10 +307,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -300,10 +321,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -312,10 +335,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -324,10 +349,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -336,10 +363,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/orange1.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -348,14 +377,15 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
-      
-        </div>
-        <h3 id="txsc">今日特销蔬菜>></h3>
+          </div>
+        <h3 id="txsc">今日特销蔬菜</h3>
         <div class="goods">
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -364,10 +394,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -376,10 +408,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -388,10 +422,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -400,10 +436,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -412,10 +450,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -424,10 +464,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -436,10 +478,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -448,10 +492,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -460,10 +506,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -472,10 +520,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -484,10 +534,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -496,10 +548,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -508,10 +562,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -520,10 +576,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/vegetable/小米椒.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -532,14 +590,15 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
-      
-        </div>
-        <h3 id="txrs">今日特销肉食>></h3>
+          </div>
+        <h3 id="txrs">今日特销肉禽</h3>
         <div class="goods">
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -548,10 +607,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -560,10 +621,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -572,10 +635,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -584,10 +649,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -596,10 +663,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -608,10 +677,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -620,10 +691,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -632,10 +705,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -644,10 +719,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -656,10 +733,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -668,10 +747,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -680,10 +761,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -692,10 +775,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -704,10 +789,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/duck/ducks/ducks2.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -716,14 +803,15 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
-      
-        </div>
-        <h3 id="txwoter">今日特销水产>></h3>
+          </div>
+        <h3 id="txwoter">今日特销水产</h3>
         <div class="goods">
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -732,10 +820,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -744,10 +834,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -756,10 +848,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -768,10 +862,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -780,10 +876,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -792,10 +890,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -804,10 +904,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -816,10 +918,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -828,10 +932,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -840,10 +946,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -852,10 +960,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -864,10 +974,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -876,10 +988,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -888,10 +1002,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/meet/fish/fishs/fishs5.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -900,14 +1016,15 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
-      
-        </div>
-        <h3 id="txdp">今日特销豆品>></h3>
+          </div>
+        <h3 id="txdp">今日特销豆品</h3>
         <div class="goods">
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -916,10 +1033,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -928,10 +1047,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -940,10 +1061,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -952,10 +1075,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -964,10 +1089,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -976,10 +1103,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -988,10 +1117,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1000,10 +1131,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1012,10 +1145,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1024,10 +1159,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1036,10 +1173,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1048,10 +1187,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1060,10 +1201,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1072,10 +1215,12 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
           <div class="goods1">
-            <div class="imgs">
-              <img src="../../assets/image-Sunny/beed/R-C.jpg" alt="">
+         <div class="goods1-1">
+          <div class="imgs">
+              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1084,9 +1229,9 @@
                 商品详情>>
               </div>
             </div>
+         </div>
           </div>
-      
-        </div>
+          </div>
         <!-- <div class="page">
             <a href="">1</a>
             <a href="">2</a>
@@ -1109,7 +1254,7 @@
 <style>
 .box {
   width: 1200px;
-  background-color: pink;
+  /* background-color: pink; */
   margin: 0 auto;
 }
 
@@ -1178,11 +1323,13 @@
     flex-wrap: wrap;
     align-content: center;
 }
-
+.varity a{
+  color: white;
+}
 .classify-right.conmmodity {
   width: 770px;
   height: 500px;
-  background-color: red;
+  /* background-color: red; */
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -1208,9 +1355,9 @@
 }
 
 .fruit1 img:hover {
-  width: 114px;
-  height: 94px;
-
+  transition: all 0.5s;
+  transform: scale(1.05);
+    box-shadow: 0px 3px 13px 3px rgba(87, 87, 87, 0.5);
 
 }
 
@@ -1222,9 +1369,11 @@
   width: 962px;
   height: 40px;
   line-height: 40px;
-  font-size: 20px;
-  background-color: #fff;
-  margin-top: 5px;
+  font-size: 22px;
+  text-align: center;
+  background: url(../../../src/assets/image-Sunny/banner/leaf1.png)center no-repeat;
+  margin-top: 20px;
+  color: block;
 }
 
 .you {
@@ -1243,44 +1392,50 @@
 
 .goods {
   /* width: 962px; */
-  background-color: rgb(231, 231, 7);
+  /* background-color: rgb(231, 231, 7); */
    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
- 
+}
+.goods1 {
+  width: 190px;
+  height: 240px;
  
 }
-
-.goods1 {
-  width: 180px;
-  height: 230px;
-  background: white;
-  margin-left: 10px;
-  margin-top: 5px;
-  display: flex;
-  flex-direction: column;
+.goods1-1{
+    width: 173px;
+    height: 213px;
+    background: rgb(230, 230, 230);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
     justify-content: flex-start;
     flex-wrap: nowrap;
     align-content: flex-end;
+    /* /* opacity: 0.7; */
+    margin: 0 5px; 
+    transition: all 0.5s;
 }
 .imgs {
   width: 165px;
   height: 130px;
   margin: 5px auto;
-}
-.imgs img {
-  width: 160px;
-  height: 125px;
-
-}
-.imgs img:hover{
-  width: 165px;
-  height: 130px;
- 
   
 }
-
+.imgs img {
+  width: 141px;
+    height: 105px;
+    margin: 0px 13px;
+    transition: all 0.5s;
+}.goods1-1:hover{
+  transform: scale(1.05);
+    box-shadow: 0px 3px 13px 3px rgba(87, 87, 87, 0.5);
+}
+.imgs img:hover{
+  transform: scale(1.05);
+    box-shadow: 0px 3px 13px 3px rgba(87, 87, 87, 0.5);
+}
 .writing {
 
   height: 50px;
@@ -1297,14 +1452,21 @@ line-height: 50px;
 }
 
 .jing {
-  font-size: 16px;
+  font-size: 10px;
   float: right;
   margin-right: 10px;
 }
+.jing:hover{
+  color: blue;
+}
+.goods span:hover{
+  color: blue;
+}
+
 
 .goods span {
   margin-left: 10px;
-  font-size: 16px;
+  font-size: 10px;
   float: left;
 }
 
