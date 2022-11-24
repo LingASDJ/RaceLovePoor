@@ -66,6 +66,7 @@
     },
     methods: {
       doLogin: function() {
+        // Ling
         let username = this.username;
         let password = this.password;
         // console.log("username=%s,password=%s",username,password);
