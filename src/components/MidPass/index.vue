@@ -81,22 +81,22 @@
       <!-- 商品 -->
       <div class="right">
         <div class="merchandise">
-          <div class="right_pro-l">
-            <div class="imgbox">
-              <router-link to="/Details">
+          <router-link to="/Details">
+            <div class="right_pro-l">
+              <div class="imgbox">
                 <img
                   src="../../assets/images/index/农产品图/水果/荔枝.jpg"
                   alt=""
                 />
-              </router-link>
+              </div>
+              <div class="right_pro_l_l">
+                <div class="right_pro-price1">￥20.6</div>
+                <div class="right_pro-price2">￥36.6</div>
+                <p>广东高州荔枝</p>
+                <span>精品</span>
+              </div>
             </div>
-            <div class="right_pro_l_l">
-              <div class="right_pro-price1">￥20.6</div>
-              <div class="right_pro-price2">￥36.6</div>
-              <p>广东高州荔枝</p>
-              <span>精品</span>
-            </div>
-          </div>
+          </router-link>
           <div class="right_pro-l">
             <div class="imgbox">
               <img
@@ -771,7 +771,7 @@ h4 {
 }
 
 /* 2.商品 */
-.right{
+.right {
   width: 980px;
 }
 .right_pro-l {
