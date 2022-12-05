@@ -108,7 +108,7 @@
 }
 .img img{
   width: 1200px;
-  height: 600px;
+height: 800px;
 }
 #login{
     height: 600px;
@@ -174,7 +174,7 @@ h1 {
   /* border: 2px solid blue; */
 }
 .buttom1{
- width: 100px;
+ width: 540px;
  height: 30px;
  line-height: 30px;
  display: flex;
