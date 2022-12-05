@@ -209,7 +209,7 @@ export default {};
 
 <style>
 .box {
-  width: 1000px;
+  width: 1200px;
   margin: 0 auto;
   /* background-color: rgb(248, 248, 248); */
 }
@@ -232,9 +232,9 @@ export default {};
   text-align: center;
   font-family: 微软雅黑;
   font-size: 18px;
-  line-height: 25.5px;
+  line-height: 34.5px;
   color: rgb(102, 102, 102);
-  margin-top: 15px;
+  margin-top: 19px;
 }
 .layer {
   color: rgb(153, 153, 153);
@@ -247,13 +247,14 @@ export default {};
   font-size: 13px;
 }
 .jj {
-  width: 1000px;
+  width: 1200px;
 }
 .jj .js {
   height: 237px;
   font-size: 14px;
   color: rgb(153, 153, 153);
   line-height: 18.5px;
+   text-indent: 2em;
 }
 .img {
   display: flex;
@@ -263,8 +264,8 @@ export default {};
   justify-content: flex-start;
   flex-wrap: nowrap;
   flex-direction: row;
-  padding-top: 17px;
-  margin-left: -64px;
+  padding-top: 3px;
+  margin-left: 20px;
 }
 .img .img1 {
   background-color: #ffffff;
@@ -373,14 +374,14 @@ export default {};
   border-bottom: 1px solid #eee;
   padding: 15px 0;
   display: flex;
-  width: 1100px;
+  width: 1200px;
   height: 94px;
 }
 .news-title h3 {
-  width: 874px;
-  height: 54px;
+  width: 1000px;
+  height: 63px;
   padding-bottom: 1px;
-  font: normal 19px/27px "Microsoft Yahei";
+  font: normal 17px/30px "Microsoft Yahei";
   min-height: 35px;
   margin-top: 5px;
 }
@@ -396,10 +397,11 @@ export default {};
   border-right: 1.5px solid #bbb;
 }
 .time {
+  font-size: 13px;
   color: #888;
-  margin-right: 10px;
+  margin-right: -100px;
   text-decoration: none;
-  margin-left: 4px;
+  margin-left: -62px;
 }
 
 .font {
