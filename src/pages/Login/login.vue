@@ -5,9 +5,11 @@
       </div>
 
     <div class="big">
+
       <div class="topone">
         <img src="../../assets/images/logo/headimg.png" alt="">
       </div>
+
       <h1></h1>
       <div class="entry">
         <div class="loginon">
@@ -132,8 +134,10 @@ height: 800px;
 }
 
 .topone img{
+
   width: 90px;
   height: 90px;
+
   position: absolute;
   margin: 20px auto;
 }
@@ -252,5 +256,8 @@ width: 85px;
 }
 .pact a{
   color: #000;
+}
+.pact a:hover{
+  color: red;
 }
 </style>
