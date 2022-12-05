@@ -5,9 +5,11 @@
       </div>
 
     <div class="big">
+
       <div class="topone">
         <img src="../../assets/images/logo/headimg.png" alt="">
       </div>
+
       <h1></h1>
       <div class="entry">
         <div class="loginon">
@@ -108,7 +110,7 @@
 }
 .img img{
   width: 1200px;
-  height: 600px;
+height: 800px;
 }
 #login{
     height: 600px;
@@ -132,8 +134,10 @@
 }
 
 .topone img{
+
   width: 90px;
   height: 90px;
+
   position: absolute;
   margin: 20px auto;
 }
@@ -174,7 +178,7 @@ h1 {
   /* border: 2px solid blue; */
 }
 .buttom1{
- width: 100px;
+ width: 540px;
  height: 30px;
  line-height: 30px;
  display: flex;
@@ -252,5 +256,8 @@ width: 85px;
 }
 .pact a{
   color: #000;
+}
+.pact a:hover{
+  color: red;
 }
 </style>

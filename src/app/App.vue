@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+
     <Top></Top>
     <Header></Header>
     <Index></Index>
@@ -8,6 +9,7 @@
     <div  v-show="isHide">
       <Login></Login>
     </div>
+
 
 
     <!-- 路由出口 -->
@@ -19,16 +21,19 @@
 // import axios from "axios"
 // import bootstrap from "bootstrap"
 // 引入页面
+
 import Top from"../components/Top/index";
 import Header from "../components/Header/index";
 import Index from "../components/MidPass/index";
 import Footer from "../components/Footer/index";
 import Login from "../pages/Login/login";
 // import Login  from "../pages/Login/login.vue";
+
 export default {
   name: "App",
   //注册组件
   components: {
+
     Login,
     Top,
     Header,
@@ -41,6 +46,7 @@ export default {
       return (this.$route.path === "/login");
     }
   },
+
 };
 </script>
 
