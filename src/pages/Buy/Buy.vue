@@ -111,54 +111,54 @@
           </div>
           <div class="commodity">
             <div class="fruit1">
-              <img src="../../assets/image-Sunny/fruit/fig.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish1.jpg" alt="">
             </div>
             <div class="fruit1">
-              <img src="../../assets//image-Sunny/fruit/grape.jpg" alt="">
-            </div>
-            <div class="fruit1">
-
-              <img src="../../assets//image-Sunny/fruit/green pear.jpg" alt="">
-
+              <img src="../../assets//image-Sunny/meet/fish/fishs/fishs2.jpg" alt="">
             </div>
             <div class="fruit1">
 
-              <img src="../../assets/image-Sunny/fruit/greenapple.jpg" alt="">
+              <img src="../../assets//image-Sunny/meet/fish/fishs/fishs1.jpg" alt="">
 
             </div>
             <div class="fruit1">
 
-              <img src="../../assets/image-Sunny/fruit/Hamilton.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish3.jpg" alt="">
+
+            </div>
+            <div class="fruit1">
+
+              <img src="../../assets/image-Sunny/meet/fish/fish6.jpg" alt="">
             </div>
 
             <div class="fruit1">
-              <img src="../../assets/image-Sunny/fruit/kiwifruit.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish10.jpg" alt="">
             </div>
           </div>
           <div class="commodity">
             <div class="fruit1">
-              <img src="../../assets/image-Sunny/fruit/fig.jpg" alt="">
+              <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="fruit1">
-              <img src="../../assets//image-Sunny/fruit/grape.jpg" alt="">
-            </div>
-            <div class="fruit1">
-
-              <img src="../../assets//image-Sunny/fruit/green pear.jpg" alt="">
-
+              <img src="../../assets//image-Sunny/beed/2.jpg" alt="">
             </div>
             <div class="fruit1">
 
-              <img src="../../assets/image-Sunny/fruit/greenapple.jpg" alt="">
+              <img src="../../assets//image-Sunny/beed/3.jpg" alt="">
 
             </div>
             <div class="fruit1">
 
-              <img src="../../assets/image-Sunny/fruit/Hamilton.jpg" alt="">
+              <img src="../../assets/image-Sunny/beed/4.jpg" alt="">
+
+            </div>
+            <div class="fruit1">
+
+              <img src="../../assets/image-Sunny/beed/5.jpg" alt="">
             </div>
 
             <div class="fruit1">
-              <img src="../../assets/image-Sunny/fruit/kiwifruit.jpg" alt="">
+              <img src="../../assets/image-Sunny/beed/6.jpg" alt="">
             </div>
           </div>
 
@@ -385,7 +385,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -399,7 +399,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -413,7 +413,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -427,7 +427,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -441,7 +441,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -455,7 +455,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -469,7 +469,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -483,7 +483,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -497,7 +497,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -511,7 +511,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -525,7 +525,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -539,7 +539,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -553,7 +553,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -567,7 +567,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -581,7 +581,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/vegetable/西蓝花.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -598,7 +598,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -612,7 +612,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -626,7 +626,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -640,7 +640,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -654,7 +654,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -668,7 +668,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -682,7 +682,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -696,7 +696,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -710,7 +710,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -724,7 +724,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -738,7 +738,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -752,7 +752,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -766,7 +766,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -780,7 +780,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -794,7 +794,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/ox/beef/beef1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -811,7 +811,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -825,7 +825,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -839,7 +839,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -853,7 +853,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -867,7 +867,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -881,7 +881,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -895,7 +895,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -909,7 +909,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -923,7 +923,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -937,7 +937,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -951,7 +951,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -965,7 +965,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -979,7 +979,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -993,7 +993,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1007,7 +1007,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/meet/fish/fish9.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1024,7 +1024,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+              <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1038,7 +1038,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1052,7 +1052,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1066,7 +1066,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1080,7 +1080,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1094,7 +1094,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1108,7 +1108,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1122,7 +1122,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1136,7 +1136,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1150,7 +1150,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1164,7 +1164,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1178,7 +1178,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1192,7 +1192,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1206,7 +1206,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1220,7 +1220,7 @@
           <div class="goods1">
          <div class="goods1-1">
           <div class="imgs">
-              <img src="../../assets/image-Sunny/fruit/green pear.jpg" alt="">
+            <img src="../../assets/image-Sunny/beed/1.jpg" alt="">
             </div>
             <div class="writing">
               <h2>东北大豆</h2>              
@@ -1295,7 +1295,7 @@
 }
 
 .varity {
-  width: 220px;
+  width: 160px;
   height: 70px;
   background-color:#ff7f00;
   margin: 5px auto;
@@ -1303,14 +1303,14 @@
   font-size: 20px;
   line-height: 68px;
   color: white;
-  border-radius: 50px;
+  border-radius: 25px;
   
 }
 
 .varity:hover {
   background-color: #e11926;
   font-size: 24px;
-  width: 230px;
+  width: 165px;
   height: 69px;
   line-height: 69px;
 }
@@ -1373,6 +1373,7 @@
   text-align: center;
   background: url(../../../src/assets/image-Sunny/banner/leaf1.png)center no-repeat;
   margin-top: 20px;
+  margin-bottom: 20px;
   color: block;
 }
 
