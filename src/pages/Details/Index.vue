@@ -1,7 +1,7 @@
 <template>
   <div class="sp">
     <div class="spleft">
-      <img src="../../assets/images/index/农产品图/水果/荔枝.jpg" alt="" />
+      <img src="../../assets/images/index/农产品图/水果/荔枝1.jpg" alt="" />
     </div>
     <div class="spright">
       <!-- 商品标题 -->

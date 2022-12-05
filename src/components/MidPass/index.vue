@@ -85,7 +85,7 @@
             <div class="right_pro-l">
               <div class="imgbox">
                 <img
-                  src="../../assets/images/index/农产品图/水果/荔枝.jpg"
+                  src="../../assets/images/index/农产品图/水果/荔枝1.jpg"
                   alt=""
                 />
               </div>
@@ -606,8 +606,8 @@ export default {
         !(this.$route.path == "/cardcat") &&
         !(this.$route.path == "/login") &&
         !(this.$route.path == "/Buy") &&
-        !(this.$route.path == "/Details") && 
-        !(this.$route.path == "/Story") && 
+        !(this.$route.path == "/Details") &&
+        !(this.$route.path == "/Story") &&
         !(this.$route.path == "/AboutX")
       );
     }

@@ -1,15 +1,15 @@
 <template>
   <div class="box">
-           <div class="banner">
+           <div class="banner1">
                <img src="../../assets/images/暖心助农/我们banner.jpg" alt="">
              </div>
     <div class="publish">
-      <h3 class="pm">发布入驻需求单</h3>
+      <!-- <h3 class="pm">发布入驻需求单</h3>
       <p>
         发布助农产品需求，吸引农户入驻网站!
         <span>请完善需求信息</span>
-      </p>
-
+      </p> -->
+<!-- 
       <div class="bg">
         <div class="group">
           <p class="pm">
@@ -41,13 +41,13 @@
                 <div class="warp">
                     <input id="city-picker" name="addressjson" 
                     readonly="readonly" type="text" value data-simple="true" class="form-control city-picker-input">
-                <!-- <span class="city-picker-span">
+                <span class="city-picker-span">
                     <span class="placeholder">请选择省/市/区</span>
-                </span> -->
+                </span> 
                 </div>
              </div>
         </div>
-      </div>
+      </div> -->
       <div class="wrm">
          <p class='wrm1'>关于我们</p>
          <p class='wrm2'>About us</p>
@@ -62,7 +62,24 @@
           <img src="../../assets/images/暖心助农/关于我们.jpg" alt="">
       </div>
       </div>
-       </div>
+      <div class="bj">
+        <img src="../../assets/images/暖心助农/背景.jpg" alt="">
+      </div>
+        <div class="box2">
+                      <div class="tp2">
+                <img src="../../assets/images/暖心助农/品质保障.jpg" alt="">
+            </div>
+           <div class="wz2">
+              <span>◆</span>
+               <span>我们的品质保障</span>
+               <p>产地环境清洁。土壤质量、圈舍条件、水源、空气等环境质量因子符合国家有关标准或认证要求。生产过程控制。在生产过程采取的农节措施和农业投入品要符合有关标准和要求。产品质量检测。农产品上市流通前应进行定期、不定期抽样检测。包装贮运过程可靠。农产品采用的包装物、初级加工措施、贮藏和运输条件应符合有关法规标准要求。产品履历可追溯。建立农产品生产和流通履历记录，为产品质量追溯提供依据。法规标准认证有保障。建立健全农产品质量法律法规和标准体系，推广农产品“三品一标”（无公害农产品、绿色食品、有机食品和农产品地理标志）认证，为农产品质量评价提供依据。</p>
+             </div>
+        </div>
+        <div class="question">
+               <h3>常见问题</h3>
+               
+        </div>
+  </div>
 
    
   </div>
@@ -77,8 +94,8 @@ export default {};
   margin-bottom: 0 auto;
   background-color: #f4f4f4;
 }
-.banner {
-  width: 1200px;
+.banner1 {
+  width: 1200px !important;
   margin: auto;
 }
 .publish {
@@ -237,5 +254,38 @@ label {
 }
 .tp img{
   margin-left: 113px;
+}
+.bj img{
+  width: 1200px;
+}
+.box2{
+  display: flex;
+  width: 1200px;
+      /* flex-direction: row;
+    align-items: center;
+    justify-content: flex-end; */
+}
+.tp2 img{
+      width: 600px;
+    /* margin-left: 113px; */
+    margin-top: 84px;
+    height: 340px;
+}
+.wz2{
+    width: 600px;
+    padding-top: 108px;
+    margin-left: 57px;
+}
+.wz2 span{
+    color: #0A7628;
+    font-family: arial, 宋体, sans-serif, tahoma, 'Microsoft YaHei';
+    line-height: 24px;
+    font-size: 26px;
+}
+.wz2 p{
+  font-size: 17px;
+    line-height: 25px;
+    padding-top: 20px;
+    text-indent: 2em;
 }
 </style>
