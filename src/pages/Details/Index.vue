@@ -76,23 +76,23 @@
     </div>
     <!-- 商品底部 -->
     <div class="spbottom">
-      <div class="l_wrap fl clearfix">
+      <div class="l_wrapfl clearfix">
         <h3>新品推荐</h3>
         <ul>
           <li>
-            <a href="#"><img src="images/goods/goods001.jpg"/></a>
+            <a href="#"><img src="../../assets/images/index/农产品图/水果/柠檬.jpg"/></a>
             <h4><a href="#">进口柠檬</a></h4>
             <div class="prize">￥3.90</div>
           </li>
           <li>
-            <a href="#"><img src="images/goods/goods002.jpg"/></a>
-            <h4><a href="#">玫瑰香葡萄</a></h4>
+            <a href="#"><img src="../../assets/images/index/农产品图/水果/茉莉香葡萄.jpg"/></a>
+            <h4><a href="#">茉莉香葡萄</a></h4>
             <div class="prize">￥16.80</div>
           </li>
         </ul>
       </div>
 
-      <div class="r_wrap fr clearfix">
+      <div class="r_wrapfr clearfix">
         <ul class="detail_tab clearfix">
           <li class="active">商品介绍</li>
           <li>评论</li>
@@ -138,6 +138,7 @@ export default {
   /* height: 900px; */
   margin: 0 auto;
   display: flex;
+  flex-wrap: wrap;
 }
 /* 左侧 */
 .spleft {
@@ -146,6 +147,7 @@ export default {
 .spleft img {
   width: 450px;
   height: 450px;
+  border-radius: 20px;
 }
 /* 右侧 */
 .spright {
@@ -268,5 +270,12 @@ export default {
 .spbottom {
   width: 1200px;
   margin: 0 auto;
+  display: flex;
+}
+.l_wrapfl{
+  width: 100px;
+}
+.l_wrapfr{
+  width: 1100px;
 }
 </style>
