@@ -15,6 +15,8 @@ import Details from '../pages/Details/Index'
 import AboutX from '../pages/Get/About'
 import Story from '../pages/Get/Story'
 
+import PeopleCenter from '../pages/PeopleCenter/index'
+
 // 1.通过Vue.use(插件)，安装插件
 Vue.use(VueRouter)
 
@@ -54,6 +56,10 @@ const routes = [{
     {
         path: '/Story',
         component: Story
+    },
+    {
+        path: '/PeopleCenter',
+        component: PeopleCenter
     },
 ]
 

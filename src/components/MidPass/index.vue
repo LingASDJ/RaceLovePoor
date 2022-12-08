@@ -606,9 +606,11 @@ export default {
         !(this.$route.path == "/cardcat") &&
         !(this.$route.path == "/login") &&
         !(this.$route.path == "/Buy") &&
-        !(this.$route.path == "/Details") &&
-        !(this.$route.path == "/Story") &&
-        !(this.$route.path == "/AboutX")
+
+        !(this.$route.path == "/Details") && 
+        !(this.$route.path == "/Story") && 
+        !(this.$route.path == "/AboutX") && !(this.$route.path == "/PeopleCenter")
+
       );
     }
   },
